@@ -34,7 +34,7 @@
     <div class="border-5 sticky-top bg-dark" style="border-color:black !important;">
         <nav class="navbar border-bottom border-dark  navbar-expand-lg w-100 me-auto ms-auto sticky-top  bg-light border-2 ">
             <div class="container-fluid  " style=" background-color:white; ; padding-top:0px">
-                <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:21vw;"></a>
+                <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:19vw;"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
