@@ -344,11 +344,11 @@
     </div>
 
 
-    <main>
-        <div class=''>
+    <main class="mt-sm-5">
+        <div class='mt-sm-5'>
             <div class="row " style="background-color: #bda55d !important">
 
-                <div class="col-12 col-lg-4  ">
+                <div class="col-12 col-lg-4 mt-sm-5 ">
                     <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100%;object-fit:cover;height: 400px;" alt="">
 
                 </div>

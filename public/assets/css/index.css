@@ -87,13 +87,13 @@ li {
     font-size: 15px ;
   }
 
-@media only screen and (max-width:810px){
+@media only screen and (max-width:800px){
   #head{
     font-size: 20px !important;
   }
 }
 
-@media only screen and (min-width:811px) {
+@media only screen and (min-width:810px) {
 
 #hp{
     font-size: 20px !important;
@@ -105,7 +105,7 @@ li {
   object-fit: contain;
   background-size:cover;
   background-repeat: no-repeat;
-  height: 95vh;
+  height: 85vh;
   text-align: center;
   font-size: 50px !important ;
   font-weight: 400 !important;
@@ -132,10 +132,8 @@ li {
 .main-content {
   display: grid;
   align-items: center;
-  /* justify-items: end; */
   justify-content: space-around;
   grid-template-columns: 50% auto;
-  /* grid-template-rows: 50% auto; */
   align-self: center;
   justify-self: center;
 }
@@ -231,7 +229,6 @@ li {
 .a {
   text-decoration: none;
   text-underline-offset: 10px;
-  
   color: #212121 !important;
   height: max-content;
 }
@@ -347,7 +344,6 @@ li {
 
   .follow-btn::after {
     position: relative;
-
     opacity: 1;
     z-index: 99;
   }
@@ -392,7 +388,6 @@ li {
     top: calc(38% - 23px) !important;
     padding-left: 1.8rem;
     max-width: 100%;
-
     font-size: 19px;
     font-weight: 900;
     text-align: center;
@@ -423,7 +418,6 @@ li {
   width: max-content;
   border-radius: 50px;
   box-sizing: border-box;
-
   -moz-border-radius: 50px;
   -ms-border-radius: 50px;
   -o-border-radius: 50px;
@@ -457,7 +451,6 @@ li {
 
 .grid {
   display: grid;
-  /* position: relative; */
   height: fit-content !important;
   gap: 1rem;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -467,7 +460,6 @@ li {
 @media only screen and (min-width: 500px) and (max-width: 901px) {
   .grid {
     display: grid;
-    /* position: relative; */
     height: fit-content !important;
     gap: 1rem;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -506,8 +498,7 @@ li {
   background-color: #bf9b30;
   color: #fff;
   font-size: 3rem;
-  box-shadow: rgba(82, 87, 97, 0.1) 0px 0.15rem 0.5rem, rgba(2, 8, 20, 0.1);
-  /* height: 100%; */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0.15rem 0.5rem, rgba(9, 9, 9, 0.1);
   width: 100%;
   border-radius: 4px;
   -webkit-border-radius: 4px;
@@ -521,10 +512,10 @@ li {
   color: black;
   font-size: large;
 }
-/* 
+
 body{
     height: 100%;
-} */
+}
 
 .hero-img {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -545,10 +536,12 @@ body{
   color: white;
 }
 
-/* about-us */
+
+
+
+/* about-us main-page */
 .about-us {
   background-color: #bda55d;
-
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(tapestry-wireframe-dark-blue.png);
   background-repeat: repeat;
@@ -572,12 +565,3 @@ li.nav-item > a:hover {
   color: #bda55d !important;
 }
 
-li.nav-item > a:active{
-  transition: all 500000s;
-  animation-duration: 500000000s;
-  text-decoration: underline;
-  -webkit-transition: all 500000s;
-  -moz-transition: all 500000s;
-  -ms-transition: all 500000s;
-  -o-transition: all 500000s;
-}
