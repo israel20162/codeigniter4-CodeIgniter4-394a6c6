@@ -9,16 +9,27 @@
 </head>
 
 <body>
+    <div class="">
+        <div class=" main-img text-dark col-sm-12">
 
-    <div class="main-img">
+            <h1 class=" mt-lg-5 mt-3 text-capitalize " style="grid-column:2;grid-row:1;font-size:larger;font-weight:300;color:#bda55d" id="head">build a future</h1>
 
-        <h1 class="header mt-lg-5 text-capitalize text-dark" style="grid-column:2;grid-row:1;font-size:70px">build a future</h1>
-        <!-- <img class="img-fluid" src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" srcset=""style="grid-column:2;grid-row:2;z-index:99">
+            <p class="w-75 mt-lg-5 mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small"class="text-white font-monospace">
+                <strong class="strong">The Kwara state education transformation agenda </strong>is an organization
+                whose main goal is to build a future where students in every community have the tools
+                and experiences they need for a great education.
+                <br><br>
 
-        <img src="<?php echo base_url('assets/images//kweta-kids.jpg') ?>" class="main-img" /> -->
+                We aim to connect the Public to Public schools,
+                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class="strong">Join us!</strong> </a> 
 
+
+            </p>
+
+            <button type="button" class="btn btn-outline-light ms-auto me-auto w-50" style="grid-row:3; grid-column:3 span">Button</button>
+
+        </div>
     </div>
-
 
     <div class="container mt-5 pt-5 ">
         <div class="row">

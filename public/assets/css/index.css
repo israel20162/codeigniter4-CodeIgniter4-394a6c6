@@ -12,6 +12,10 @@ body {
   padding: 0;
   font-family: "Rubik", sans-serif !important;
 }
+
+.strong{
+  font-weight: 900;
+}
 /* nav {
   display: flex;
   justify-content: space-around;
@@ -48,22 +52,82 @@ li {
 
 .active {
   text-decoration-line: underline !important;
-  text-decoration-thickness: 2px !important;
+  text-decoration-thickness: 3px !important;
   color: rgb(20, 19, 19);
 }
  
 
 .main-img {
   display: grid;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: min-content;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
     url("./kweta-kids.jpg");
-  height: 990px;
-  width: 100%;
+  object-fit: contain;
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 65vh;
+  font-size: 15px ;
+  text-align: center;
+  
+  
   overflow: hidden;
   z-index: 20;
   opacity: 1;
   visibility: inherit;
 }
+#head{
+  height: auto;
+  margin-top: 10px;
+  
+
+}
+ .hp{
+    font-size: 15px ;
+  }
+
+@media only screen and (max-width:810px){
+  #head{
+    font-size: 20px !important;
+  }
+}
+
+@media only screen and (min-width:811px) {
+
+#hp{
+    font-size: 20px !important;
+  }
+.main-img {
+  display: grid;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
+    url("./kweta-kids.jpg");
+  object-fit: contain;
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 95vh;
+  text-align: center;
+  font-size: 50px !important ;
+  font-weight: 400 !important;
+  
+  
+  overflow: hidden;
+  z-index: 20;
+  opacity: 1;
+  visibility: inherit;
+  
+};
+#head{
+  
+  grid-row: 1;
+  font-weight: 400 !important;
+};
+ 
+
+
+
+
+}
+
 .main-content {
   display: grid;
   align-items: center;
