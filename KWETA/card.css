@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap');
+
+* {
+  box-sizing: border-box !important;
+}
+.body {
+  display: flex !important;
+  justify-content: space-between;
+  flex-direction: column !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+  gap: 5;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+
+}
+
+a {
+  text-decoration: none;
+  color: #212121 !important;
+  height: max-content;
+}
+
+.img-text {
+  padding-left: 1em;
+  max-width: 16em;
+  opacity: 7;
+  font-size: 21px;
+  font-weight: 900;
+  text-transform: capitalize;
+  top: 270px;
+}
+
+button {
+  transition: all 0.3s ease-in-out;
+  width: auto;
+  cursor: pointer;
+  display: inline-block;
+  transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+}
+
+.follow-btn:hover {
+  width: max-content;
+  transform: scale(1.05);
+  border-radius: 50px;
+  box-sizing: border-box;
+  color: orange !important;
+  border-color: wheat !important;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+}
+
+.follow-btn:hover:after {
+  opacity: 1;
+  transition: 1s;
+  position: relative;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+  color: orange;
+}
+
+.follow-btn::after {
+  padding-left: 10px;
+  content: "Follow";
+  position: absolute;
+  width: fit-content;
+  opacity: 0;
+  z-index: 99;
+}
+
+.teacher-name {
+  color: #212121 !important;
+  font-weight: bold;
+  padding-left: 5px;
+  display: block;
+}
+
+.school-info {
+  color: #414142;
+  text-align: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: medium;
+  font-style: normal;
+}
+
+.sch-sep {
+  margin: 0 5px;
+  font-weight: 900 !important;
+  font-size: larger !important;
+}
+
+.donation-info {
+  color: #212121 !important;
+  margin-top: 15px;
+  padding-top: 15px;
+  text-align: center;
+  align-items: center;
+}
+.donation-info > span {
+  font-weight: 900;
+  font-size: large;
+}
+
+@media (hover: none) {
+  .follow-btn::after {
+    opacity: 1;
+    position: relative;
+    color: orange;
+    padding-left: 10px;
+    content: "Follow";
+    position: absolute;
+    width: fit-content;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+  }
+
+  .follow-btn::after {
+    position: relative;
+
+    opacity: 1;
+    z-index: 99;
+  }
+
+  .follow-btn{
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    display: inline-block;
+    width: auto;
+    transform: scale(1.05);
+    border-radius: 60px;
+    box-sizing: border-box;
+    color: orange !important;
+    border-color: wheat !important;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    -webkit-border-radius: 60px;
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .img-text {
+    top: calc(40% - 25px) !important;
+    padding-left: 1rem;
+    max-width: 16em;
+    opacity: 7;
+    font-size: 21px;
+    font-weight: 900;
+    text-transform: capitalize;
+    z-index: 99;
+    float: inherit;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .img-text {
+    top: calc(38% - 23px) !important;
+    padding-left: 1.8rem;
+    max-width: 100%;
+
+    font-size: 19px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: capitalize;
+    z-index: 99;
+  }
+}
+
+.card {
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  -webkit-transform: scale(1.02);
+  -moz-transform: scale(1.02);
+  -ms-transform: scale(1.02);
+  -o-transform: scale(1.02);
+}
+
+.card:hover > button {
+  width: max-content;
+  border-radius: 50px;
+  box-sizing: border-box;
+
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  -webkit-border-radius: 50px;
+}
+
+.card:hover > button::after {
+  opacity: 1;
+  transition: 1s;
+  position: relative;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+}
+
+.description {
+  line-height: 1.4;
+  font-size: 0.875rem;
+  overflow: auto;
+  margin-bottom: 14px;
+  height: 103px;
+  padding-bottom: 5px;
+}
+
+.card-title{
+  padding-bottom: 10px;
+}

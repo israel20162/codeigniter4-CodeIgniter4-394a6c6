@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+}
+
+.hero-img{
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), 
+         rgba(0, 0, 0, 0.5)), url("./images/Kweta-1536x521.jpg");
+ height: 500px !important;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.hero-text{
+     text-align: center;
+     color: white;
+ 
+}

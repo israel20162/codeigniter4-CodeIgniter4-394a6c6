@@ -1,0 +1,29 @@
+CRITICAL - 2022-06-11 19:14:42 --> The framework needs the following extension(s) installed and loaded: curl, intl, xml.
+in SYSTEMPATH/CodeIgniter.php on line 231.
+ 1 SYSTEMPATH/CodeIgniter.php(231): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(189): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(71): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-06-11 14:36:58 --> Use of undefined constant about_us - assumed 'about_us' (this will throw an Error in a future version of PHP)
+in APPPATH/Controllers/Helloworld.php on line 9.
+ 1 APPPATH/Controllers/Helloworld.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Helloworld->Index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-11 14:37:42 --> Use of undefined constant about_us - assumed 'about_us' (this will throw an Error in a future version of PHP)
+in APPPATH/Controllers/Helloworld.php on line 9.
+ 1 APPPATH/Controllers/Helloworld.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Helloworld->Index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-11 14:37:43 --> Use of undefined constant about_us - assumed 'about_us' (this will throw an Error in a future version of PHP)
+in APPPATH/Controllers/Helloworld.php on line 9.
+ 1 APPPATH/Controllers/Helloworld.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Helloworld->Index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
