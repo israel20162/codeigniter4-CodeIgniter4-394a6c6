@@ -27,7 +27,7 @@
             </p>
 
             <div style="grid-row:3; grid-column:3 span;color:white;height:fit-content;" class="bg-transparent">
-                       <a  class="a" href="/" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:" id="rt">
+                       <a  class="a" href="/" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:none" id="rt">
                 <button type="button" 
                 class="btn  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" 
                 style="width:max-content;height:fit-content;background-color:#bda55d" id="">
