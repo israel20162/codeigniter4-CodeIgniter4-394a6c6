@@ -27,23 +27,26 @@
             </p>
 
             <div style="grid-row:3; grid-column:3 span;color:white;height:fit-content;" class="bg-transparent">
-                       <a  class="a" href="/" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:none" id="rt">
-                <button type="button" 
-                class="btn  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" 
-                style="width:max-content;height:fit-content;background-color:#bda55d" id="">
+                <a class="a" href="/" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:none" id="rt">
 
 
-                    Contact us/Donate 
-        
-        
-        </button> 
-    </a>
+                    <button type="button" class="btn  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" style="width:max-content;height:fit-content;background-color:#bda55d" id="">
+
+                        Contact us/Donate
+                    </button>
+                </a>
+
+
             </div>
 
-         
+
 
         </div>
     </div>
+
+
+
+
 
     <div class="container mt-5 pt-5 ">
         <div class="row">
@@ -58,13 +61,13 @@
                 <p>
                     It seeks to address the declining state of the educational system in the state through increased use of technology,
                     creativity, emotional intelligence, complex problem solving skills and critical thinking.
-                    The pillars of KWETA addressschool infrastructure, teachers'  training, students'  attendance,
+                    The pillars of KWETA addressschool infrastructure, teachers' training, students' attendance,
                     quality of curriculum and learning, parents' involvement and regulations to support school management.
                     These problems are found to be at the root of the literacy
                     decline in Kwara State.
                 </p>
                 <div class="container mt-5  w-196 h-48 text-white-50">
-                    <button name="More Information" class="button-bg  btn btn-lg text-white mt-5" href="#" role="button">More Information</button>
+                    <a href="https://web.facebook.com/pg/KwaraEducationFutures/posts/?ref=page_internal" target="_blank" rel="noopener noreferrer"> <button name="More Information" class="button-bg  btn btn-lg text-white mt-5" href="#" role="button">More Information</button></a>
                 </div>
             </div>
             <div class="col-md-6 col-md-offset-3">
@@ -96,6 +99,11 @@
 
 
             </div>
+
+
+
+
+
 
 
             <div class="container mt-5 pt-5">
