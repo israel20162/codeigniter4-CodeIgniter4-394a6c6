@@ -9,9 +9,16 @@
 </head>
 
 <body>
-   
 
-    <img src="<?php echo base_url('assets/images//kweta-kids.jpg') ?>" class="main-img" />
+    <div class="main-img">
+
+        <h1 class="header mt-lg-5 text-capitalize text-dark" style="grid-column:2;grid-row:1;font-size:70px">build a future</h1>
+        <!-- <img class="img-fluid" src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" srcset=""style="grid-column:2;grid-row:2;z-index:99">
+
+        <img src="<?php echo base_url('assets/images//kweta-kids.jpg') ?>" class="main-img" /> -->
+
+    </div>
+
 
     <div class="container mt-5 pt-5 ">
         <div class="row">
