@@ -14,19 +14,33 @@
 
             <h1 class=" mt-lg-5 mt-3 text-capitalize " style="grid-column:2;grid-row:1;font-size:larger;font-weight:300;color:#bda55d" id="head">build a future</h1>
 
-            <p class="w-75 mt-lg-5 mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small"class="text-white font-monospace">
+            <p class="w-75 mt-lg-5  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small" class="text-white font-monospace">
                 <strong class="strong">The Kwara state education transformation agenda </strong>is an organization
                 whose main goal is to build a future where students in every community have the tools
                 and experiences they need for a great education.
                 <br><br>
 
                 We aim to connect the Public to Public schools,
-                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class="strong">Join us!</strong> </a> 
+                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class="strong">Join us!</strong> </a>
 
 
             </p>
 
-            <button type="button" class="btn btn-outline-light ms-auto me-auto w-50" style="grid-row:3; grid-column:3 span">Button</button>
+            <div style="grid-row:3; grid-column:3 span;color:white;height:fit-content;" class="bg-transparent">
+                       <a  class="a" href="/" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:" id="rt">
+                <button type="button" 
+                class="btn  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" 
+                style="width:max-content;height:fit-content;background-color:#bda55d" id="">
+
+
+                    Contact us/Donate 
+        
+        
+        </button> 
+    </a>
+            </div>
+
+         
 
         </div>
     </div>

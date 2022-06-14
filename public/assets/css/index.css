@@ -60,7 +60,7 @@ li {
 .main-img {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: min-content;
+  grid-template-rows: min-content calc(55% - 10px);
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
     url("./kweta-kids.jpg");
   object-fit: contain;
