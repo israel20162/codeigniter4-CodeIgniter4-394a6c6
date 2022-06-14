@@ -53,6 +53,7 @@ li {
 .active {
   text-decoration-line: underline !important;
   text-decoration-thickness: 3px !important;
+  text-decoration-skip-ink:all ;
   color: rgb(20, 19, 19);
 }
  
@@ -229,6 +230,8 @@ li {
 
 .a {
   text-decoration: none;
+  text-underline-offset: 10px;
+  
   color: #212121 !important;
   height: max-content;
 }

@@ -14,7 +14,7 @@
 
             <h1 class=" mt-lg-5 mt-3 text-capitalize " style="grid-column:2;grid-row:1;font-size:larger;font-weight:300;color:#bda55d" id="head">build a future</h1>
 
-            <p class="w-75 mt-lg-5  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small" class="text-white font-monospace">
+            <p class="w-75 mt-lg-5  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small" class="text-white ">
                 <strong class="strong">The Kwara state education transformation agenda </strong>is an organization
                 whose main goal is to build a future where students in every community have the tools
                 and experiences they need for a great education.
@@ -58,8 +58,8 @@
                 <p>
                     It seeks to address the declining state of the educational system in the state through increased use of technology,
                     creativity, emotional intelligence, complex problem solving skills and critical thinking.
-                    The pillars of KWETA addressschool infrastructure, teachers’ training, students’ attendance,
-                    quality of curriculum and learning, parents’involvement and regulations to support school management.
+                    The pillars of KWETA addressschool infrastructure, teachers'  training, students'  attendance,
+                    quality of curriculum and learning, parents' involvement and regulations to support school management.
                     These problems are found to be at the root of the literacy
                     decline in Kwara State.
                 </p>
