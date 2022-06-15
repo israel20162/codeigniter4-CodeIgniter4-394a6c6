@@ -76,8 +76,8 @@
                 <img src="<?php echo base_url('assets/images/Kwara.jpg') ?>" alt="" class="" width="500px">
 
                 <div class="row ">
-                    <h3 class="h3 col-lg-6 col-6 text-center text-color" id='rt'>3.1 million (2016)</h3>
-                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt">137.6 Billion Naira</h3>
+                    <h3 class="h3 col-lg-6 col-6 text-center text-color" id='rt'> <span class="counter-count">3.1</span>  million (2016)</h3>
+                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt"> <span class="counter-count">137.6 </span> Billion Naira</h3>
 
                 </div>
 
@@ -88,8 +88,8 @@
 
 
                 <div class="row mt-5">
-                    <h3 class="h3 col-6 text-center" id="rt">40.2 Billion Naira</h3>
-                    <h3 class="h3 col-6 text-center" id="rt">35 Billion Naira</h3>
+                    <h3 class="h3 col-6 text-center " id="rt"> <span class="counter-count">40.2</span> <span>Billion Naira</span> </h3>
+                    <h3 class="h3 col-6 text-center" id="rt"> <span class="counter-count">35</span> Billion Naira</h3>
 
                 </div>
                 <div class="row">
@@ -139,177 +139,209 @@
 
 
 
+    </div>
 
 
-        <!-- card section div start -->
-        <div class="body">
+    <div class="transparency  " style="margin-left:auto;margin-right:auto;">
+
+
+        <div class=" transparency-div">
+
+            <h1 class="" style="color:#3804c1;text-transform:capitalize;">transparency & efficiency</h1>
+            <br>
+
+            <p class="subheader " style="width: 75%;">We know that you care about how
+                effectively your donation is being used.
+                That's why we show you how every Naira was
+                spent, how you made a difference, and how grateful
+                the students and teachers are!</p>
 
 
 
 
-            <div class="container pt-2 pt-lg-5 pt-md-3">
-                <div class="row">
-                    <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
-                        <a href="" class="a" class="a">
-                            <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
 
-                                <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
-                                    <span class="bi bi-bookmark"></span>
-                                </button>
-                                <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
-                                    <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
-                                        Literacy, Language and Letters
-                                        jhhhhhhhh </span>
-                                </div>
-                                <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
+        </div>
 
 
-                                <div class="card-body">
-
-                                    <p class="card-title w-auto description">Help me give my students the opportunity to be
-                                        self-published authors using blank books, colored pencils,
-                                        and supplies.
-                                        They can share their stories while sitting on the new, fresh rug.
-                                        The Splash pad provides refreshing fun at enrichment.</p>
-
-                                    <div class="teacher-info">
-                                        <span class="teacher-name">Mrs.velaquez</span>
-                                        <div class="d-flex school-info">
-                                            Amsterdan High School
-                                            <span class="sch-sep">.</span>
-                                            <span class="school-location">Amsterdan</span>
-                                        </div>
-
-                                        <div class="progress mt-4">
-                                            <div class="progress-bar-holder bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                                            </div>
-                                        </div>
+    </div>
 
 
-                                        <div class="donation-info">
-                                            <span>&#8358;5000</span> still needed
-                                        </div>
 
 
+
+
+
+
+
+    <!-- card section div start -->
+    <div class="body">
+
+
+
+
+        <div class="container pt-2 pt-lg-5 pt-md-3">
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
+                    <a href="" class="a" class="a">
+                        <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
+
+                            <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
+                                <span class="bi bi-bookmark"></span>
+                            </button>
+                            <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
+                                <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
+                                    Literacy, Language and Letters
+                                    jhhhhhhhh </span>
+                            </div>
+                            <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
+
+
+                            <div class="card-body">
+
+                                <p class="card-title w-auto description">Help me give my students the opportunity to be
+                                    self-published authors using blank books, colored pencils,
+                                    and supplies.
+                                    They can share their stories while sitting on the new, fresh rug.
+                                    The Splash pad provides refreshing fun at enrichment.</p>
+
+                                <div class="teacher-info">
+                                    <span class="teacher-name">Mrs.velaquez</span>
+                                    <div class="d-flex school-info">
+                                        Amsterdan High School
+                                        <span class="sch-sep">.</span>
+                                        <span class="school-location">Amsterdan</span>
                                     </div>
 
-                            </main>
-                        </a>
-                    </div>
-
-
-
-
-
-                    <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
-                        <a href="" class="a">
-                            <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
-
-                                <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
-                                    <span class="bi bi-bookmark"></span>
-                                </button>
-                                <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
-                                    <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
-                                        Literacy, Language and Letters
-                                        jhhhhhhhh </span>
-                                </div>
-                                <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
-
-                                <div class="card-body">
-
-                                    <p class="card-title description w-auto">Help me give my students the opportunity to be
-                                        self-published authors using blank books, colored pencils,
-                                        and supplies.
-                                        They can share their stories while sitting on the new, fresh rug.
-                                        The Splash pad provides refreshing fun at enrichment.</p>
-
-                                    <div class="teacher-info">
-                                        <span class="teacher-name">Mrs.velaquez</span>
-                                        <div class="d-flex school-info">
-                                            Amsterdan High School
-                                            <span class="sch-sep">.</span>
-                                            <span class="school-location">Amsterdan</span>
+                                    <div class="progress mt-4">
+                                        <div class="progress-bar-holder bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                                         </div>
-
-                                        <div class="progress mt-4">
-                                            <div class="progress-bar-holder bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                                            </div>
-                                        </div>
-
-
-                                        <div class="donation-info">
-                                            <span>&#8358;5000</span> still needed
-                                        </div>
-
-
                                     </div>
 
-                            </main>
-                        </a>
-                    </div>
 
-
-
-
-
-
-                    <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
-                        <a href="" class="a">
-                            <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
-
-                                <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
-                                    <span class="bi bi-bookmark"></span>
-                                </button>
-                                <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
-                                    <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
-                                        Literacy, Language and Letters
-                                        jhhhhhhhh </span>
-                                </div>
-                                <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
-
-
-                                <div class="card-body">
-
-                                    <p class="card-title w-auto description">Help me give my students the opportunity to be
-                                        self-published authors using blank books, colored pencils,
-                                        and supplies.
-                                        They can share their stories while sitting on the new, fresh rug.
-                                        The Splash pad provides refreshing fun at enrichment.</p>
-
-                                    <div class="teacher-info">
-                                        <span class="teacher-name">Mrs.velaquez</span>
-                                        <div class="d-flex school-info">
-                                            Amsterdan High School
-                                            <span class="sch-sep">.</span>
-                                            <span class="school-location">Amsterdan</span>
-                                        </div>
-
-                                        <div class="progress mt-4">
-                                            <div class="progress-bar-holder  bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                                            </div>
-                                        </div>
-
-
-                                        <div class="donation-info">
-                                            <span>&#8358;5000</span> still needed
-                                        </div>
-
-
+                                    <div class="donation-info">
+                                        <span>&#8358;5000</span> still needed
                                     </div>
 
-                            </main>
-                        </a>
-                    </div>
 
+                                </div>
 
-
+                        </main>
+                    </a>
                 </div>
+
+
+
+
+
+                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
+                    <a href="" class="a">
+                        <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
+
+                            <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
+                                <span class="bi bi-bookmark"></span>
+                            </button>
+                            <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
+                                <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
+                                    Literacy, Language and Letters
+                                    jhhhhhhhh </span>
+                            </div>
+                            <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
+
+                            <div class="card-body">
+
+                                <p class="card-title description w-auto">Help me give my students the opportunity to be
+                                    self-published authors using blank books, colored pencils,
+                                    and supplies.
+                                    They can share their stories while sitting on the new, fresh rug.
+                                    The Splash pad provides refreshing fun at enrichment.</p>
+
+                                <div class="teacher-info">
+                                    <span class="teacher-name">Mrs.velaquez</span>
+                                    <div class="d-flex school-info">
+                                        Amsterdan High School
+                                        <span class="sch-sep">.</span>
+                                        <span class="school-location">Amsterdan</span>
+                                    </div>
+
+                                    <div class="progress mt-4">
+                                        <div class="progress-bar-holder bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
+
+
+                                    <div class="donation-info">
+                                        <span>&#8358;5000</span> still needed
+                                    </div>
+
+
+                                </div>
+
+                        </main>
+                    </a>
+                </div>
+
+
+
+
+
+
+                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
+                    <a href="" class="a">
+                        <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
+
+                            <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
+                                <span class="bi bi-bookmark"></span>
+                            </button>
+                            <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
+                                <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
+                                    Literacy, Language and Letters
+                                    jhhhhhhhh </span>
+                            </div>
+                            <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
+
+
+                            <div class="card-body">
+
+                                <p class="card-title w-auto description">Help me give my students the opportunity to be
+                                    self-published authors using blank books, colored pencils,
+                                    and supplies.
+                                    They can share their stories while sitting on the new, fresh rug.
+                                    The Splash pad provides refreshing fun at enrichment.</p>
+
+                                <div class="teacher-info">
+                                    <span class="teacher-name">Mrs.velaquez</span>
+                                    <div class="d-flex school-info">
+                                        Amsterdan High School
+                                        <span class="sch-sep">.</span>
+                                        <span class="school-location">Amsterdan</span>
+                                    </div>
+
+                                    <div class="progress mt-4">
+                                        <div class="progress-bar-holder  bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
+
+
+                                    <div class="donation-info">
+                                        <span>&#8358;5000</span> still needed
+                                    </div>
+
+
+                                </div>
+
+                        </main>
+                    </a>
+                </div>
+
+
 
             </div>
 
         </div>
 
-        <!-- card section div end -->
+    </div>
+
+    <!-- card section div end -->
     </div>
 
     <div>
