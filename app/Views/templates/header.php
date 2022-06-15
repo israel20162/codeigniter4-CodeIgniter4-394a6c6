@@ -35,7 +35,7 @@
             $(this).prop('Counter', 0).animate({
                 Counter: $(this).text()
             }, {
-                duration: 10000,
+                duration: 20000,
                 easing: 'swing',
                 step: function(now) {
                     $(this).text(Math.ceil(now));
@@ -43,10 +43,10 @@
             });
         });
     </script>
-    <div class="border-5 sticky-top bg-dark" style="border-color:black !important;">
-        <nav class="navbar border-bottom border-dark  navbar-expand-lg w-100 me-auto ms-auto sticky-top  bg-light border-2 ">
+    <div class="border-5 sticky-top bg-light mx-auto  border-bottom border-dark  border-1" style="border-color:black !important;">
+        <nav class="navbar  navbar-expand-lg w-100 me-auto ms-auto mx-auto  bg-light  " style="max-width: 1100px;">
             <div class="container-fluid  " style=" background-color:white; ; padding-top:0px">
-                <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:19vw;"></a>
+                <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:20vw;"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>

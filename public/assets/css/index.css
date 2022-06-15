@@ -60,7 +60,7 @@ li {
 
 .main-img {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr max-content 1fr;
   grid-template-rows: min-content calc(55% - 10px);
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
     url("./kweta-kids.jpg");
@@ -87,13 +87,13 @@ li {
     font-size: 15px ;
   }
 
-@media only screen and (max-width:800px){
+@media only screen and (max-width:810px){
   #head{
-    font-size: 20px !important;
+    font-size: 21px !important;
   }
 }
 
-@media only screen and (min-width:810px) {
+@media only screen and (min-width:811px) {
 
 #hp{
     font-size: 20px !important;
@@ -326,6 +326,8 @@ li {
   font-size: large;
 }
 
+/* card section css */
+
 @media (hover: none) {
   .follow-btn::after {
     opacity: 1;
@@ -384,8 +386,13 @@ li {
 }
 
 @media only screen and (max-width: 430px) {
+  .rep-card {
+
+    height: 70vh !important;
+  }
+
   .img-text {
-    top: calc(38% - 23px) !important;
+    top: calc(38% - 27px) !important;
     padding-left: 1.8rem;
     max-width: 100%;
     font-size: 19px;
@@ -393,8 +400,8 @@ li {
     text-align: center;
     text-transform: capitalize;
     z-index: 99;
-  }
-}
+  };}
+  
 
 .card {
   transition: all 0.3s ease-in-out;
@@ -572,10 +579,12 @@ li.nav-item > a:hover {
   
 margin: 2em 0em;
 padding: 1em ;
-width: 100% !important;
+width: auto !important;
 background-color: #bda55d ;
 position: relative;
 color: #3804c1;
+margin-left: auto;
+margin-right: auto;
 
  
 }
@@ -586,7 +595,7 @@ color: #3804c1;
   background-image:url('transparency-background.png');
   background-repeat: no-repeat;
   background-position: 200px;
-  padding: 4em 0;
+  padding: 6em 0;
   padding-left: 600px;
   text-align: left;
   background-color: #bda55d ;

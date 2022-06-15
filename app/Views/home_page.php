@@ -14,7 +14,7 @@
 
             <h1 class=" mt-lg-5 mt-3 text-capitalize " style="grid-column:2;grid-row:1;font-size:larger;font-weight:300;color:#bda55d" id="head">build a future</h1>
 
-            <p class="w-75 mt-lg-5  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small" class="text-white ">
+            <p class="w-75 mt-lg-1  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small" class="text-white ">
                 <strong class="strong">The Kwara state education transformation agenda </strong>is an organization
                 whose main goal is to build a future where students in every community have the tools
                 and experiences they need for a great education.
@@ -76,25 +76,25 @@
                 <img src="<?php echo base_url('assets/images/Kwara.jpg') ?>" alt="" class="" width="500px">
 
                 <div class="row ">
-                    <h3 class="h3 col-lg-6 col-6 text-center text-color" id='rt'> <span class="counter-count">3.1</span>  million (2016)</h3>
-                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt"> <span class="counter-count">137.6 </span> Billion Naira</h3>
+                    <h3 class="h3 col-lg-6 col-6 text-center " id='rt'> <span class="counter-count">3.1</span>million (2016)</h3>
+                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt">&#8358; <span class="counter-count">137.6</span> Billion </h3>
 
                 </div>
 
                 <div class="row">
-                    <h5 class="h5 col-6 text-center">Total Population</h5>
-                    <h5 class="h5 col-6 text-center">State Budget</h5>
+                    <h5 class="h5 col-6 col-lg-6  text-center">Total Population</h5>
+                    <h5 class="h5 col-6 col-lg-6  text-center">State Budget</h5>
                 </div>
 
 
                 <div class="row mt-5">
-                    <h3 class="h3 col-6 text-center " id="rt"> <span class="counter-count">40.2</span> <span>Billion Naira</span> </h3>
-                    <h3 class="h3 col-6 text-center" id="rt"> <span class="counter-count">35</span> Billion Naira</h3>
+                    <h3 class="h3 col-6 col-lg-6  text-center " id="rt">&#8358;<span class="counter-count">40.2</span> Billion </h3>
+                    <h3 class="h3 col-6 col-lg-6  text-center" id="rt">&#8358; <span class="counter-count">35</span> Billion </h3>
 
                 </div>
                 <div class="row">
-                    <h5 class="h5 col-6 text-center">Internally Generated Revenue</h5>
-                    <h5 class="h5 col-6 text-center">State Budget For Education</h5>
+                    <h5 class="h5 col-6 col-lg-6  text-center">Internally Generated Revenue</h5>
+                    <h5 class="h5 col-6 col-lg-6  text-center">State Budget For Education</h5>
                 </div>
 
 
@@ -142,7 +142,7 @@
     </div>
 
 
-    <div class="transparency  " style="margin-left:auto;margin-right:auto;">
+    <div class="transparency container-fluid  " style="margin-left:auto;margin-right:auto;">
 
 
         <div class=" transparency-div">
@@ -181,7 +181,7 @@
 
         <div class="container pt-2 pt-lg-5 pt-md-3">
             <div class="row">
-                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
+                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 rep-card">
                     <a href="" class="a" class="a">
                         <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
 
@@ -213,7 +213,7 @@
                                     </div>
 
                                     <div class="progress mt-4">
-                                        <div class="progress-bar-holder bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                        <div class="progress-bar-holder bg-primar" role="progressbar" style="width: 75%;background-color:#bda55d;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                                         </div>
                                     </div>
 
@@ -233,7 +233,7 @@
 
 
 
-                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
+                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 rep-card ">
                     <a href="" class="a">
                         <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
 
@@ -264,7 +264,7 @@
                                     </div>
 
                                     <div class="progress mt-4">
-                                        <div class="progress-bar-holder bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                        <div class="progress-bar-holder bg-primar " role="progressbar" style="width: 75%;background-color:#bda55d;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                                         </div>
                                     </div>
 
@@ -285,7 +285,7 @@
 
 
 
-                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 ">
+                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 rep-card">
                     <a href="" class="a">
                         <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
 
@@ -317,7 +317,7 @@
                                     </div>
 
                                     <div class="progress mt-4">
-                                        <div class="progress-bar-holder  bg-primary " role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                        <div class="progress-bar-holder  bg-primar " role="progressbar" style="width: 75%;background-color:#bda55d;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                                         </div>
                                     </div>
 
@@ -376,11 +376,11 @@
     </div>
 
 
-    <main class="mt-sm-5">
+    <main class="mt-5">
         <div class='mt-sm-5'>
             <div class="row " style="background-color: #bda55d !important">
 
-                <div class="col-12 col-lg-4 mt-sm-5 ">
+                <div class="col-12 col-lg-4 mt-sm-0  ">
                     <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100%;object-fit:cover;height: 400px;" alt="">
 
                 </div>
