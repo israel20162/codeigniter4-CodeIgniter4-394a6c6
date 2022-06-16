@@ -32,6 +32,37 @@
 
         </section>
 
+
+        <section class="mt-lg-4">
+            <div class="d-grid our-mission">
+
+                <h2 style="font-weight: 400;">our mission</h2>
+
+
+                <p class="text-dark text-break text-center mt-lg-2 donation-text" style="width: 45%;font-size: larger;">
+                    We make it easy for anyone to help a teacher in need, moving us closer to a nation where
+                    students in every community
+                    have the tools and experiences they need for a great education.
+                </p>
+
+
+                <h4 class="text-dark col-lg-3 col-md-5 col-9 mx-lg-auto mx-auto" style="font-weight: 600;font-size: 1.2em; justify-content: center;">But we can't do it alone. Join us!</h4>
+
+
+                <div class="d-flex gap-lg-4 gap-3 col-lg-8 mt-lg-3 mt-3 col-9  ms-0 me-4">
+
+
+                    <button type="button" name="" id="" class="btn border-1 border-dark btn-outline-light text-dark col-4">Partner with KWETA</button>
+                    <button type="button" name="" id="" class="btn border-1 border-dark btn-outline-light text-dark col-4">Partner with KWETA</button>
+                    <button type="button" name="" id="" class="btn border-1 border-dark btn-outline-light text-dark col-4">Partner with KWETA</button>
+
+
+                </div>
+
+            </div>
+        </section>
+
+
         <section class="container" id='2'>
 
             <div class="row mb-lg-5 mb-4">
@@ -153,6 +184,86 @@
                 </div>
 
             </div>
+        </section>
+
+
+
+        <section>
+
+
+
+            <div class="container text-center">
+
+                <div class="row">
+                    <span>Today, teachers at</span>
+                    <h2>87% of public schools</h2>
+                    <span>in Kwara have benefited on our site.</span>
+
+                </div>
+
+                <div class="row image-row mt-5">
+
+                    <div class="col-6 image-row">
+                        <img src="<?php echo base_url('assets/images/classroom kids.jpg') ?>" alt="" class="w-100">
+                    </div>
+
+                    <div class="col-lg-5 col-12 my-auto text-wrap">
+
+                        <span>We've mobilized</span>
+                        <h2>5,303,720 citizen donors</h2>
+                        <h6 class="w-75 mx-auto">and dozens of generous corporate and foundation partners.</h6>
+
+                    </div>
+
+                </div>
+
+
+                <div class="row mt-5">
+
+                    <div class="col-lg-6 col-12 my-auto text-wrap">
+
+                        <span>Together, they've given</span>
+                        <h2>Together, they've given
+                            &#8358;35,000,000,000</h2>
+                        <h6 class="w-75 mx-auto">to support requests from teachers.</h6>
+
+                    </div>
+
+
+
+                    <div class="col-6 image-row">
+                        <img src="<?php echo base_url('assets/images/governor-kids.jpeg') ?>" alt="" class="w-100">
+                    </div>
+
+
+                </div>
+
+
+                <div class="row mt-5">
+                    <div class="col-6 image-row">
+                        <img src="<?php echo base_url('assets/images/uniform-kids.jpg') ?>" alt="" class="w-100">
+                    </div>
+
+                    <div class="col-lg-5 col-12 my-auto text-wrap">
+
+                        <span>Helping to make learning more engaging at</span>
+                        <h2>86,702 schools</h2>
+                        <h6 class="w-75 mx-auto">across the country.</h6>
+
+                    </div>
+
+                </div>
+
+
+
+
+            </div>
+
+
+
+
+
+
         </section>
 
 

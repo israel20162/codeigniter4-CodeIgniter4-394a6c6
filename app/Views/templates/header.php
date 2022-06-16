@@ -28,7 +28,6 @@
         ];
 
         const d = new Date();
-        
     </script>
 
 
@@ -57,7 +56,7 @@
             });
         });
     </script>
-    <div class="border-2 sticky-top bg-white mx-auto   border-1" style="box-shadow: 0px 1px 1px 1px grey">
+    <div class=" sticky-top bg-white mx-auto   " style="box-shadow: 0px 1px 0px 0px grey">
         <nav class="navbar  navbar-expand-lg w-100  me-auto  mx-auto  bg-white  " style="max-width: 1100px;">
             <div class="container-fluid  " style=" background-color:white; ; padding-top:0px">
                 <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:20vw;"></a>

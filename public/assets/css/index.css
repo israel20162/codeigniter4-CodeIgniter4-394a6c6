@@ -695,6 +695,16 @@ font-size: 2rem;
 }
 
 
+.our-mission{
+  align-items: center;
+  justify-items: center;
+  padding: 1em;
+  text-transform: capitalize;
+  color: #3804c1;
+  height: auto;
+ }
+
+
 /* .b{
   background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6));
 } */
