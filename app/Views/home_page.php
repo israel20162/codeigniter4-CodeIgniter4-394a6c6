@@ -173,36 +173,36 @@
     <!-- card section div end -->
     </div>
 
-    <div>
-        <section class="w-100 my-lg-5 py-lg-5 my-sm-5 my-auto">
-            <div class="about-us row d-flex justify-content-center align-items-center ">
-                <div class="d-flex justify-content-center col-lg-12 col-md-8 col-sm-6 mt-lg-5 pt-lg-5 pb-lg-2">
-                    <h1 class="col-lg-2  text-warning">about us</h1>
-                </div>
 
-                <div class="row justify-content-center ">
-                    <p class="col-lg-6 col-sm-12  parag" style="font-size: large;font-weight:600">About us
-
-                        Founded in 2000 by a high school teacher in the Bronx,
-                        DonorsChoose empowers public school teachers from across the
-                        country to request much-needed materials for their students.
-                        Right now there are thousands of teacher requests that you
-                        can help bring to life with a gift of any amount.</p>
-                </div>
-                <div class="row d-flex align-items-center align-self-lg-center justify-content-center m-0 my-sm-5 mt-sm-5">
-                    <div class="col-sm-8 d-flex  justify-content-center mb-lg-5 pb-lg-5 ">
-                        <a href="/aboutus">
-                            <button type="button" href="/aboutus" class="btn btn-light btn-outline-light  mt-lg-5 w-auto text-dark parag w-auto">
-                                Find out more
-
-                            </button>
-                        </a>
-                    </div>
-                </div>
+    <section class="w-100 my-lg-1 py-lg-1 my-sm-5 ">
+        <div class="about-us row d-flex justify-content-center align-items-center ">
+            <div class="d-flex justify-content-center col-lg-12 col-md-8 col-sm-6 mt-lg-1 pt-lg-1 pb-lg-2 mb-lg-2">
+                <h1 class="col-lg-2  text-warning">about us</h1>
             </div>
 
-        </section>
-    </div>
+            <div class="row justify-content-center ">
+                <p class="col-lg-6 col-sm-12  parag" style="font-size: large;font-weight:600">About us
+
+                    Founded in 2000 by a high school teacher in the Bronx,
+                    DonorsChoose empowers public school teachers from across the
+                    country to request much-needed materials for their students.
+                    Right now there are thousands of teacher requests that you
+                    can help bring to life with a gift of any amount.</p>
+            </div>
+            <div class="row d-flex align-items-center align-self-lg-center justify-content-center m-0 my-sm-5 mt-sm-5">
+                <div class="col-sm-8 d-flex  justify-content-center mb-lg-1 pb-lg-2 ">
+                    <a href="/aboutus">
+                        <button type="button" href="/aboutus" class="btn btn-light btn-outline-light  mt-lg-2 w-auto text-dark parag w-auto">
+                            Find out more
+
+                        </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
 
 
 
@@ -272,32 +272,27 @@
 
 
 
-
-    <div class="transparency container-fluid  " style="margin-left:auto;margin-right:auto;">
-
-
-        <div class=" transparency-div">
-
-            <h1 class="" style="color:#3804c1;text-transform:capitalize;">transparency & efficiency</h1>
-            <br>
-
-            <p class="subheader " style="width: 75%;color:#1b0260 !important;">We know that you care about how
-                effectively your donation is being used.
-                That's why we show you how every Naira was
-                spent, how you made a difference, and how grateful
-                the students and teachers are!</p>
-
-            <h5 style="color:#1b0260 !important;"> We've received the highest possible ratings from</h5>
+    <section>
+        <div class="transparency container-fluid  " style="margin-left:auto;margin-right:auto;">
 
 
+            <div class=" transparency-div">
 
+                <h1 class="" style="color:#3804c1;text-transform:capitalize;">transparency & efficiency</h1>
+                <br>
 
+                <p class="subheader " style="width: 75%;color:#1b0260 !important;">We know that you care about how
+                    effectively your donation is being used.
+                    That's why we show you how every Naira was
+                    spent, how you made a difference, and how grateful
+                    the students and teachers are!</p>
+
+                <h5 style="color:#1b0260 !important;"> We've received the highest possible ratings from</h5>
+
+            </div>
 
         </div>
-
-
-    </div>
-
+    </section>
 
 
 
@@ -325,43 +320,60 @@
 
 
 
+    <section>
+        <main class="mt-5">
+            <div class='mt-sm-5'>
+                <div class="row " style="background-color: #bda55d !important">
 
-    <main class="mt-5">
-        <div class='mt-sm-5'>
-            <div class="row " style="background-color: #bda55d !important">
-
-                <div class="col-12 col-lg-4 mt-sm-0  ">
-                    <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100%;object-fit:cover;height: 400px;" alt="">
-
-                </div>
-
-                <div class="col-12 col-lg-8 " style="background-color: #bda55d !important;color: white;">
-                    <div class="container">
-                        <div class="row">
-                            <h1 class="col-12 col-lg-12 mt-3 pt-5">Support our Children</h1>
-                            <h2 class="col-12 col-lg-12  text-dark">Build a future</h2>
-                        </div>
-                        <div class="row">
-                            <p class="m-0 p-0 pt-lg-4 pt-3 col-12 col-md-8 col-lg-8" style='font-size:1.2rem;line-height:1.4;'>
-                                Teachers and students need your support more than ever.
-                                Get crayons, books, cleaning supplies, technology,
-                                and more to help students get back to learning.
-                            </p>
-                        </div>
-
-                        <div class="row">
-                            <button type="button" name="" id="" class="btn col-6 c col-md-6 btn-dark  mt-5">Donate Now!</button>
-                        </div>
+                    <div class="col-12 col-lg-4 mt-sm-0  ">
+                        <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100%;object-fit:cover;height: 400px;" alt="">
 
                     </div>
+
+                    <div class="col-12 col-lg-8 " style="background-color: #bda55d !important;color: white;">
+                        <div class="container">
+                            <div class="row">
+                                <h1 class="col-12 col-lg-12 mt-3 pt-5">Support our Children</h1>
+                                <h2 class="col-12 col-lg-12  text-dark">Build a future</h2>
+                            </div>
+                            <div class="row">
+                                <p class="m-0 p-0 pt-lg-4 pt-3 col-12 col-md-8 col-lg-8" style='font-size:1.2rem;line-height:1.4;'>
+                                    Teachers and students need your support more than ever.
+                                    Get crayons, books, cleaning supplies, technology,
+                                    and more to help students get back to learning.
+                                </p>
+                            </div>
+
+                            <div class="row">
+                                <button type="button" name="" id="" class="btn col-6 c col-md-6 btn-dark  mt-5">Donate Now!</button>
+                            </div>
+
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
 
+
+        </main>
+    </section>
+
+
+    <section class="pt-5">
+        <div class="container mt-lg-5">
+
+            <div class="subhead">
+
+                <h2>Looking to help out? There are thousands of exciting teacher requests that would benefit from a donation of any size!</h2>
+
+                <button class="btn border-1 border-dark btn-outline-light mx-auto mt-lg-5"><a href="/get-involved" class="text-dark" style="text-decoration:none ;">find a project to support</a></button>
+
+
+            </div>
+
         </div>
-
-
-    </main>
+    </section>
 
 
     <script>
