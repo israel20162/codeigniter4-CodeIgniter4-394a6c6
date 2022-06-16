@@ -44,8 +44,70 @@
         </div>
     </div>
 
+    <!-- monthly donation section -->
+    <section>
+        <div class="d-grid monthly-donation">
+
+            <h6 style="font-weight: 400;">support teachers and students</h6>
+
+            <h2>Monthly donation</h2>
 
 
+            <div style="margin: 2em auto;display:flex;justify-content: space-between;flex-direction: row;" class="justify-content-between  donation-card">
+
+
+                <div class="card w-50  text-center" style="opacity: 0.8;transform: scale(.8, .8);">
+
+                    <h6 class="card-header text-dark">
+                        <script>
+                            document.write(monthNames[d.getMonth() - 1]);
+                        </script>
+                    </h6>
+
+                    <img class="card-img-bottom" src="<?php echo base_url('assets/images/microscope.png') ?>" alt="" srcset="" style="opacity: 0.6;position: relative;width: 60px;margin: auto;padding-bottom: 15px;padding-top:15px ;">
+
+                </div>
+
+
+                <div class="card w-50 text-center" style="opacity: 1;">
+
+                    <h6 class="card-header text-dark">
+                        <script>
+                            document.write(monthNames[d.getMonth()]);
+                        </script>
+                    </h6>
+
+                    <img class="card-img-bottom" src="<?php echo base_url('assets/images/book.png') ?>" alt="" srcset="" style="opacity: 1;position: relative;width: 70%;margin: auto;">
+
+                </div>
+
+                <div class="card w-50 text-center" style="opacity: 0.6;transform: scale(.8, .8);">
+
+                    <h6 class="card-header text-dark">
+                        <script>
+                            document.write(monthNames[d.getMonth() + 1]);
+                        </script>
+                    </h6>
+
+                    <img class="card-img-bottom" src="" alt="" srcset="" style="opacity: 0.6;position: relative;padding: 0 .5em;">
+
+                </div>
+
+            </div>
+
+            <h4 class="text-dark">Choose a new project every month.</h4>
+
+            <p class="text-dark text-break text-center mt-lg-2 donation-text" style="width: 45%;">
+                We'll charge you once a month, and you handpick the projects
+                you want to support.
+                No time to pick? We'll use your
+                donation to help an urgent teacher request.
+            </p>
+
+            <button class="btn border-1 border-dark btn-outline-light"><a href="/get-involved" class="text-dark" style="text-decoration:none ;">support teachers monthly</a></button>
+
+        </div>
+    </section>
 
 
     <div class="container mt-5 pt-5 ">
@@ -211,61 +273,6 @@
 
 
 
-
-    <section>
-        <div class="d-grid monthly-donation">
-
-            <h6 style="font-weight: 400;">support teachers and students</h6>
-
-            <h2>Monthly donation</h2>
-
-
-            <div style="margin: 2em auto;display:flex;justify-content: space-between;flex-direction: row;" class="justify-content-between  donation-card">
-
-
-                <div class="card w-50  text-center" style="opacity: 0.8;transform: scale(.8, .8);">
-
-                    <h6 class="card-header text-dark">may</h6>
-
-                    <img class="card-img-bottom" src="<?php echo base_url('assets/images/microscope.png') ?>" alt="" srcset="" style="opacity: 0.6;position: relative;width: 60px;margin: auto;padding-bottom: 15px;padding-top:15px ;">
-
-                </div>
-
-
-                <div class="card w-50 text-center" style="opacity: 1;">
-
-                    <h6 class="card-header text-dark">june</h6>
-
-                    <img class="card-img-bottom" src="<?php echo base_url('assets/images/book.png') ?>" alt="" srcset="" style="opacity: 1;position: relative;width: 70%;margin: auto;">
-
-                </div>
-
-
-                <div class="card w-50 text-center" style="opacity: 0.6;transform: scale(.8, .8);">
-
-                    <h6 class="card-header text-dark">july</h6>
-
-                    <img class="card-img-bottom" src="" alt="" srcset="" style="opacity: 0.6;position: relative;padding: 0 .5em;">
-
-                </div>
-
-
-            </div>
-
-            <h4 class="text-dark">Choose a new project every month.</h4>
-
-            <p class="text-dark text-break text-center mt-lg-2 donation-text" style="width: 45%;">
-                We'll charge you once a month, and you handpick the projects
-                you want to support.
-                No time to pick? We'll use your
-                donation to help an urgent teacher request.
-            </p>
-
-            <button class="btn border-1 border-dark btn-outline-light"><a href="/get-involved" class="text-dark" style="text-decoration:none ;">support teachers monthly</a></button>
-
-
-        </div>
-    </section>
 
 
 

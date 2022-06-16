@@ -16,7 +16,21 @@
 </head>
 
 <body>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+
+    </script>
+
+
+    <script>
+        const monthNames = ["January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December"
+        ];
+
+        const d = new Date();
+        
+    </script>
+
 
     <script>
         $(document).ready(function() {
@@ -43,8 +57,8 @@
             });
         });
     </script>
-    <div class="border-2 sticky-top bg-white mx-auto     border-1" style="box-shadow: 1px 2px 5px #888888">
-        <nav class="navbar  navbar-expand-lg w-100 me-auto ms-auto mx-auto  bg-white  " style="max-width: 1100px;">
+    <div class="border-2 sticky-top bg-white mx-auto   border-1" style="box-shadow: 0px 1px 1px 1px grey">
+        <nav class="navbar  navbar-expand-lg w-100  me-auto  mx-auto  bg-white  " style="max-width: 1100px;">
             <div class="container-fluid  " style=" background-color:white; ; padding-top:0px">
                 <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:20vw;"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
