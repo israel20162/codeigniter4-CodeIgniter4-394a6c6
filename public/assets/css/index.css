@@ -580,7 +580,7 @@ li.nav-item > a:hover {
 margin: 2em 0em;
 padding: 1em ;
 width: auto !important;
-background-color: #bda55d ;
+background-color: #ffc80b;  ;
 position: relative;
 color: #3804c1;
 margin-left: auto;
@@ -588,7 +588,7 @@ margin-right: auto;
 
  
 }
-/* #ffc80b; */
+
 /* #3804c1; */
 .transparency-div{
  
@@ -598,7 +598,7 @@ margin-right: auto;
   padding: 6em 0;
   padding-left: 600px;
   text-align: left;
-  background-color: #bda55d ;
+  background-color:  #ffc80b;  ;
 
 position: relative;
 color: white;
@@ -643,3 +643,72 @@ color: white;
 
   
 }
+
+
+
+/* monthly-donation */
+
+.monthly-donation{
+  align-items: center;
+  justify-items: center;
+  padding: 1em;
+  text-transform: capitalize;
+  color: #3804c1;
+  height: auto;
+ }
+
+ .donation-card{
+   width: 30%;
+ }
+
+
+ @media  screen and (max-width:460px) {
+   .donation-card{
+     width: 70% !important;
+     margin: 0;
+   }
+
+   
+ }
+
+@media only screen and (max-width:460px){
+   .donation-text {
+     width: 80% !important;
+    
+   }
+
+  }
+
+
+
+  /* tapestry */
+  .tap{
+   background: #3804c1;
+   padding: 3rem 0;
+   color: #fff;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3) , rgba(0, 0, 0, 0.3)), url(tapestry-background.png);
+     background-repeat: no-repeat;
+  -webkit-background-size: 960px 240px;
+  -moz-background-size: 960px 240px;
+  background-size: 960px 240px;
+  background-position: left top;
+  background-repeat: repeat;
+  opacity: 0.9;
+
+}
+
+
+.tap-container{
+  padding: 2rem;
+  display: grid;
+  justify-items: center;
+  background-color: #3804c1;
+  border: 10px solid #0062fd;
+  position: relative;
+  width: 100%;
+  max-width: 980px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+

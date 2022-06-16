@@ -142,28 +142,6 @@
     </div>
 
 
-    <div class="transparency container-fluid  " style="margin-left:auto;margin-right:auto;">
-
-
-        <div class=" transparency-div">
-
-            <h1 class="" style="color:#3804c1;text-transform:capitalize;">transparency & efficiency</h1>
-            <br>
-
-            <p class="subheader " style="width: 75%;">We know that you care about how
-                effectively your donation is being used.
-                That's why we show you how every Naira was
-                spent, how you made a difference, and how grateful
-                the students and teachers are!</p>
-
-
-
-
-
-        </div>
-
-
-    </div>
 
 
 
@@ -181,157 +159,8 @@
 
         <div class="container pt-2 pt-lg-5 pt-md-3">
             <div class="row">
-                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 rep-card">
-                    <a href="" class="a" class="a">
-                        <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
-
-                            <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
-                                <span class="bi bi-bookmark"></span>
-                            </button>
-                            <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
-                                <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
-                                    Literacy, Language and Letters
-                                    jhhhhhhhh </span>
-                            </div>
-                            <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
 
 
-                            <div class="card-body">
-
-                                <p class="card-title w-auto description">Help me give my students the opportunity to be
-                                    self-published authors using blank books, colored pencils,
-                                    and supplies.
-                                    They can share their stories while sitting on the new, fresh rug.
-                                    The Splash pad provides refreshing fun at enrichment.</p>
-
-                                <div class="teacher-info">
-                                    <span class="teacher-name">Mrs.velaquez</span>
-                                    <div class="d-flex school-info">
-                                        Amsterdan High School
-                                        <span class="sch-sep">.</span>
-                                        <span class="school-location">Amsterdan</span>
-                                    </div>
-
-                                    <div class="progress mt-4">
-                                        <div class="progress-bar-holder bg-primar" role="progressbar" style="width: 75%;background-color:#bda55d;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                                        </div>
-                                    </div>
-
-
-                                    <div class="donation-info">
-                                        <span>&#8358;5000</span> still needed
-                                    </div>
-
-
-                                </div>
-
-                        </main>
-                    </a>
-                </div>
-
-
-
-
-
-                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 rep-card ">
-                    <a href="" class="a">
-                        <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
-
-                            <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
-                                <span class="bi bi-bookmark"></span>
-                            </button>
-                            <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
-                                <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
-                                    Literacy, Language and Letters
-                                    jhhhhhhhh </span>
-                            </div>
-                            <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
-
-                            <div class="card-body">
-
-                                <p class="card-title description w-auto">Help me give my students the opportunity to be
-                                    self-published authors using blank books, colored pencils,
-                                    and supplies.
-                                    They can share their stories while sitting on the new, fresh rug.
-                                    The Splash pad provides refreshing fun at enrichment.</p>
-
-                                <div class="teacher-info">
-                                    <span class="teacher-name">Mrs.velaquez</span>
-                                    <div class="d-flex school-info">
-                                        Amsterdan High School
-                                        <span class="sch-sep">.</span>
-                                        <span class="school-location">Amsterdan</span>
-                                    </div>
-
-                                    <div class="progress mt-4">
-                                        <div class="progress-bar-holder bg-primar " role="progressbar" style="width: 75%;background-color:#bda55d;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                                        </div>
-                                    </div>
-
-
-                                    <div class="donation-info">
-                                        <span>&#8358;5000</span> still needed
-                                    </div>
-
-
-                                </div>
-
-                        </main>
-                    </a>
-                </div>
-
-
-
-
-
-
-                <div class="col-sm-12 col-md-6 col-lg-4 ps-md-1 ps-sm-1 rep-card">
-                    <a href="" class="a">
-                        <main class=" d-flex card  " style="height: calc(100% - 100px)!important;">
-
-                            <button class=" btn position-absolute bg-white mt-2 ms-2 follow-btn" style='z-index: 99' style=" box-sizing: inherit;" style="font-size:1rem">
-                                <span class="bi bi-bookmark"></span>
-                            </button>
-                            <div class="col-12 d-flex position-relative align-items-center img-text   container-fluid ">
-                                <span class=" position-absolute text-white card-title" style="z-index: 99; max-width:inherit  ;box-sizing: content-box !important; ">
-                                    Literacy, Language and Letters
-                                    jhhhhhhhh </span>
-                            </div>
-                            <img src="<?php echo base_url('assets/images/kids.webp') ?>" class="card-img-top " style=" position: relative;height: calc(100% - 10px)!important" alt="" id="img">
-
-
-                            <div class="card-body">
-
-                                <p class="card-title w-auto description">Help me give my students the opportunity to be
-                                    self-published authors using blank books, colored pencils,
-                                    and supplies.
-                                    They can share their stories while sitting on the new, fresh rug.
-                                    The Splash pad provides refreshing fun at enrichment.</p>
-
-                                <div class="teacher-info">
-                                    <span class="teacher-name">Mrs.velaquez</span>
-                                    <div class="d-flex school-info">
-                                        Amsterdan High School
-                                        <span class="sch-sep">.</span>
-                                        <span class="school-location">Amsterdan</span>
-                                    </div>
-
-                                    <div class="progress mt-4">
-                                        <div class="progress-bar-holder  bg-primar " role="progressbar" style="width: 75%;background-color:#bda55d;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                                        </div>
-                                    </div>
-
-
-                                    <div class="donation-info">
-                                        <span>&#8358;5000</span> still needed
-                                    </div>
-
-
-                                </div>
-
-                        </main>
-                    </a>
-                </div>
 
 
 
@@ -374,6 +203,127 @@
 
         </section>
     </div>
+
+
+
+
+
+
+
+
+
+    <section>
+        <div class="d-grid monthly-donation">
+
+            <h6 style="font-weight: 400;">support teachers and students</h6>
+
+            <h2>Monthly donation</h2>
+
+
+            <div style="margin: 2em auto;display:flex;justify-content: space-between;flex-direction: row;" class="justify-content-between  donation-card">
+
+
+                <div class="card w-50  text-center" style="opacity: 0.8;transform: scale(.8, .8);">
+
+                    <h6 class="card-header text-dark">may</h6>
+
+                    <img class="card-img-bottom" src="<?php echo base_url('assets/images/microscope.png') ?>" alt="" srcset="" style="opacity: 0.6;position: relative;width: 60px;margin: auto;padding-bottom: 15px;padding-top:15px ;">
+
+                </div>
+
+
+                <div class="card w-50 text-center" style="opacity: 1;">
+
+                    <h6 class="card-header text-dark">june</h6>
+
+                    <img class="card-img-bottom" src="<?php echo base_url('assets/images/book.png') ?>" alt="" srcset="" style="opacity: 1;position: relative;width: 70%;margin: auto;">
+
+                </div>
+
+
+                <div class="card w-50 text-center" style="opacity: 0.6;transform: scale(.8, .8);">
+
+                    <h6 class="card-header text-dark">july</h6>
+
+                    <img class="card-img-bottom" src="" alt="" srcset="" style="opacity: 0.6;position: relative;padding: 0 .5em;">
+
+                </div>
+
+
+            </div>
+
+            <h4 class="text-dark">Choose a new project every month.</h4>
+
+            <p class="text-dark text-break text-center mt-lg-2 donation-text" style="width: 45%;">
+                We'll charge you once a month, and you handpick the projects
+                you want to support.
+                No time to pick? We'll use your
+                donation to help an urgent teacher request.
+            </p>
+
+            <button class="btn border-1 border-dark btn-outline-light"><a href="/get-involved" class="text-dark" style="text-decoration:none ;">support teachers monthly</a></button>
+
+
+        </div>
+    </section>
+
+
+
+
+
+
+
+    <div class="transparency container-fluid  " style="margin-left:auto;margin-right:auto;">
+
+
+        <div class=" transparency-div">
+
+            <h1 class="" style="color:#3804c1;text-transform:capitalize;">transparency & efficiency</h1>
+            <br>
+
+            <p class="subheader " style="width: 75%;color:#1b0260 !important;">We know that you care about how
+                effectively your donation is being used.
+                That's why we show you how every Naira was
+                spent, how you made a difference, and how grateful
+                the students and teachers are!</p>
+
+            <h5 style="color:#1b0260 !important;"> We've received the highest possible ratings from</h5>
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+
+    <section class="tap">
+
+        <div class="conatiner tap-container">
+
+            <h2 style="color: #ffc80b;">The most trusted classroom funding site for teachers</h2>
+
+            <h5 class="w-75 my-lg-4 my-4" style="color:#ffc80b">
+
+                As a teacher-founded nonprofit, we're trusted by teachers, donors,
+                administrators, and partner organizations across thecountry.
+
+            </h5>
+
+            <button class="btn border-1 border-dark btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
+
+
+        </div>
+    </section>
+
+
+
+
 
 
     <main class="mt-5">
