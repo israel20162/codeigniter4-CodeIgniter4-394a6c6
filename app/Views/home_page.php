@@ -12,16 +12,16 @@
     <div class="">
         <div class=" main-img text-dark col-sm-12">
 
-            <h1 class=" mt-lg-5 mt-3 text-capitalize " style="grid-column:2;grid-row:1;font-size:larger;font-weight:300;color:#bda55d" id="head">build a future</h1>
+            <h1 class=" mt-lg-5 mt-3 text-capitalize " style="grid-column:2;grid-row:1;font-size:larger;color:#bda55d" id="head"> <strong>build a future</strong> </h1>
 
-            <p class="w-75 mt-lg-1  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:300; font-size:small" class="text-white ">
+            <p class="w-75 mt-lg-1  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:600; font-size:small" class="text-white ">
                 <strong class="strong">The Kwara state education transformation agenda </strong>is an organization
                 whose main goal is to build a future where students in every community have the tools
                 and experiences they need for a great education.
                 <br><br>
 
                 We aim to connect the Public to Public schools,
-                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class="strong">Join us!</strong> </a>
+                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class="text-black strong">Join us!</strong> </a>
 
 
             </p>
@@ -30,7 +30,7 @@
                 <a class="a" href="/" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:none" id="rt">
 
 
-                    <button type="button" class="btn  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" style="width:max-content;height:fit-content;background-color:#bda55d" id="">
+                    <button type="button" class="btn btn-lg  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" style="width:max-content;height:fit-content;background-color:#bda55d" id="">
 
                         Contact us/Donate
                     </button>
@@ -236,7 +236,7 @@
     </div>
 
 
-    <section class="w-100 my-lg-1 py-lg-1 my-sm-5 ">
+    <section class="w-100 my-lg-0 py-lg-1 my-sm-5 ">
         <div class="about-us row d-flex justify-content-center align-items-center ">
             <div class="d-flex justify-content-center col-lg-12 col-md-8 col-sm-6 mt-lg-1 pt-lg-1 pb-lg-2 mb-lg-2">
                 <h1 class="col-lg-2  text-warning">about us</h1>
@@ -328,7 +328,7 @@
 
 
     <section>
-        <main class="mt-5">
+        <main class="mt-0">
             <div class='mt-sm-5'>
                 <div class="row " style="background-color: #bda55d !important">
 

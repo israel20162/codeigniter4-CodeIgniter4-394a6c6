@@ -10,7 +10,8 @@ body {
 
 section{
 
-  margin-top: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   
 }
 body {
@@ -73,7 +74,7 @@ body {
   }
 .main-img {
   display: grid;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)),
     url("./kweta-kids.jpg");
   object-fit: contain;
   background-size:cover;
@@ -93,7 +94,7 @@ body {
 #head{
   
   grid-row: 1;
-  font-weight: 400 !important;
+  font-weight: 700 !important;
 };
  
 
@@ -704,6 +705,19 @@ font-size: 2rem;
   height: auto;
  }
 
+
+@media only screen and (max-width:490px) {
+   .image-row > img{
+
+    visibility: hidden;
+    width: 0 !important;
+    height: 0;
+     
+     display: none;
+    
+   }
+
+  }
 
 /* .b{
   background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6));

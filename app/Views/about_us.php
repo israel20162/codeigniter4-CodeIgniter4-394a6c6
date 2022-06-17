@@ -39,14 +39,14 @@
                 <h2 style="font-weight: 400;">our mission</h2>
 
 
-                <p class="text-dark text-break text-center mt-lg-2 donation-text" style="width: 45%;font-size: larger;">
+                <p class="text-dark text-break text-center mt-lg-2 col-12 donation-text" style="width: 45%;font-size: larger;">
                     We make it easy for anyone to help a teacher in need, moving us closer to a nation where
                     students in every community
                     have the tools and experiences they need for a great education.
                 </p>
 
 
-                <h4 class="text-dark col-lg-3 col-md-5 col-9 mx-lg-auto mx-auto" style="font-weight: 600;font-size: 1.2em; justify-content: center;">But we can't do it alone. Join us!</h4>
+                <h4 class="text-dark col-lg-3 col-md-6 col-10 mx-lg-auto me-auto ms-5" style="font-weight: 600;font-size: 1.2em; justify-content: center;">But we can't do it alone. Join us!</h4>
 
 
                 <div class="d-flex gap-lg-4 gap-3 col-lg-8 mt-lg-3 mt-3 col-9  ms-0 me-4">
@@ -201,7 +201,7 @@
 
                 </div>
 
-                <div class="row image-row mt-5">
+                <div class="row  mt-5">
 
                     <div class="col-6 image-row">
                         <img src="<?php echo base_url('assets/images/classroom kids.jpg') ?>" alt="" class="w-100">
@@ -241,7 +241,7 @@
 
                 <div class="row mt-5">
                     <div class="col-6 image-row">
-                        <img src="<?php echo base_url('assets/images/uniform-kids.jpg') ?>" alt="" class="w-100">
+                        <img src="<?php echo base_url('assets/images/uniform-kids.jpg') ?>" alt="" class="w-100 image-row">
                     </div>
 
                     <div class="col-lg-5 col-12 my-auto text-wrap">
