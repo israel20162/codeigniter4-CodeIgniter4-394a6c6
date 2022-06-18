@@ -138,7 +138,7 @@
                 <img src="<?php echo base_url('assets/images/Kwara.jpg') ?>" alt="" class="" width="500px">
 
                 <div class="row ">
-                    <h3 class="h3 col-lg-6 col-6 text-center " id='rt'> <span class="counter-count">3.1</span>million (2016)</h3>
+                    <h3 class="h3 col-lg-6 col-6 text-center " id='rt'> <span class="counter-count">3.0 </span> million (2016)</h3>
                     <h3 class="h3 col-lg-6 col-6 text-center" id="rt">&#8358; <span class="counter-count">137.6</span> Billion </h3>
 
                 </div>
