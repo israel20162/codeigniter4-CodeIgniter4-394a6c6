@@ -59,7 +59,7 @@
     <div class=" sticky-top bg-white mx-auto   " style="box-shadow: 0px 1px 0px 0px grey">
         <nav class="navbar  navbar-expand-lg w-100  me-auto  mx-auto  bg-white  " style="max-width: 1100px;">
             <div class="container-fluid  " style=" background-color:white; ; padding-top:0px">
-                <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:20vw;"></a>
+                <a class=" navbar-brand" href="/"><img src="<?php echo base_url('assets/images/Kweta-1536x521.jpg') ?>" alt="" class=" nav-img" style="width:15vw;"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -72,7 +72,7 @@
                             <a class="nav-link a " href="/aboutus">ABOUT US</a>
                         </li>
                         <li class="nav-item mx-lg-3">
-                            <a class="nav-link a " href="#">GET INVOLVED</a>
+                            <a class="nav-link a " href="/get-involved">GET INVOLVED</a>
                         </li>
                         <li class="nav-item me-lg-5">
                             <a class="nav-link a " href="#">CONTACT US/DONATE</a>

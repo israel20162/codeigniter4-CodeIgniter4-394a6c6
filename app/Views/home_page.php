@@ -243,7 +243,7 @@
             </div>
 
             <div class="row justify-content-center ">
-                <p class="col-lg-6 col-sm-12  parag" style="font-size: large;font-weight:600">About us
+                <p class="col-lg-6 col-sm-12  parag" style="font-size: large;font-weight:600">
 
                     Founded in 2000 by a high school teacher in the Bronx,
                     DonorsChoose empowers public school teachers from across the
@@ -317,7 +317,7 @@
 
             </h5>
 
-            <button class="btn border-1 border-dark btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
+            <button class="btn border-1 border-light btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
 
 
         </div>

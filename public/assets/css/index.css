@@ -10,8 +10,8 @@ body {
 
 section{
 
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   
 }
 body {
@@ -722,3 +722,43 @@ font-size: 2rem;
 /* .b{
   background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6));
 } */
+
+
+
+
+
+.how-it-image{
+
+    margin: 0 auto;
+display: block;
+background-image: url("how-it-works-sprite.png");
+background-repeat: no-repeat;
+-webkit-background-size: 872px 210px;
+-moz-background-size: 872px 210px;
+background-size: 872px 210px;
+background-position: 0 0;
+width: 218px;
+height: 210px;
+
+
+  }
+
+
+  .image-2{
+    background-position: -218px 0;
+
+  }
+
+
+  .image-3{
+    background-position: -436px 0;
+
+  }
+
+
+  @media only screen and (max-width:460px){
+
+  .hiw{
+    flex-direction: column !important;
+  }
+  }

@@ -42,6 +42,7 @@ $routes->get('/helloworld', 'Helloworld::index');
 $routes->get('/aboutus', 'Aboutus::index');
 $routes->get('/contact', 'Contact::index');
 $routes->get('/homepage', 'Homepage::index');
+$routes->get('/get-involved', 'Getinvolved::index');
 
 
 
