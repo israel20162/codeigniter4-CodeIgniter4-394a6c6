@@ -39,7 +39,7 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/helloworld', 'Helloworld::index');
-$routes->get('/aboutus', 'Aboutus::index');
+$routes->get('/about-us', 'Aboutus::index');
 $routes->get('/contact', 'Contact::index');
 $routes->get('/homepage', 'Homepage::index');
 $routes->get('/get-involved', 'Getinvolved::index');

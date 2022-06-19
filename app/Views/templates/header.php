@@ -69,7 +69,7 @@
                             <a class="nav-link a " href="/">HOME</a>
                         </li>
                         <li class="nav-item mx-lg-3">
-                            <a class="nav-link a " href="/aboutus">ABOUT US</a>
+                            <a class="nav-link a " href="/about-us">ABOUT US</a>
                         </li>
                         <li class="nav-item mx-lg-3">
                             <a class="nav-link a " href="/get-involved">GET INVOLVED</a>

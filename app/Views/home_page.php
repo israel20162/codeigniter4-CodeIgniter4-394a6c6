@@ -21,7 +21,7 @@
                 <br><br>
 
                 We aim to connect the Public to Public schools,
-                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class="text-black strong">Join us!</strong> </a>
+                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class=" strong" style="color:#bda55d">Join us!</strong> </a>
 
 
             </p>
@@ -48,7 +48,7 @@
     <section>
         <div class="d-grid monthly-donation">
 
-            <h6 style="font-weight: 400;">support teachers and students</h6>
+            <h6 style="font-weight: 400;">support our teachers and students</h6>
 
             <h2>Monthly donation</h2>
 
@@ -95,19 +95,62 @@
 
             </div>
 
-            <h4 class="text-dark">Choose a new project every month.</h4>
+            <h4 class="text-dark">support a new school every month.</h4>
 
             <p class="text-dark text-break text-center mt-lg-2 donation-text" style="width: 45%;">
-                We'll charge you once a month, and you handpick the projects
-                you want to support.
-                No time to pick? We'll use your
-                donation to help an urgent teacher request.
+                KWETA is a public education transformation programme that would improve teaching and learning using innovative technology, data-driven platforms, high-quality learning materials, effective training and continuous coaching and support for teachers and school administrators.
             </p>
 
-            <button class="btn border-1 border-dark btn-outline-light"><a href="/get-involved" class="text-dark" style="text-decoration:none ;">support teachers monthly</a></button>
+            <button class="btn border-1 border-dark btn-outline-light"><a href="/contact-us" class="text-dark" style="text-decoration:none ;">Contact Us</a></button>
 
         </div>
     </section>
+
+
+
+
+    <!-- support our children section -->
+    <section>
+        <main class="mt-0">
+            <div class='mt-sm-5'>
+                <div class="row " style="background-color: #bda55d !important">
+
+                    <div class="col-12 col-lg-4 mt-sm-0  ">
+                        <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100%;object-fit:cover;height: 400px;" alt="">
+
+                    </div>
+
+                    <div class="col-12 col-lg-8 " style="background-color: #bda55d !important;color: white;">
+                        <div class="container">
+                            <div class="row">
+                                <h1 class="col-12 col-lg-12 mt-3 pt-5">Support our Children</h1>
+                                <h2 class="col-12 col-lg-12  text-dark">Build a future</h2>
+                            </div>
+                            <div class="row">
+                                <p class="m-0 p-0 pt-lg-4 pt-3 col-12 col-md-8 col-lg-8" style='font-size:1.2rem;line-height:1.4;'>
+                                    Teachers and students need your support more than ever.
+                                    Get crayons, books, cleaning supplies, technology,
+                                    and more to help students get back to learning.
+                                </p>
+                            </div>
+
+                            <div class="row">
+                                <button type="button" name="" id="" class="btn col-6 c col-md-6 btn-dark  mt-5"> <a href="/contact-us" class="text-white" style="text-decoration:none;">Donate Now!</a> </button>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+        </main>
+    </section>
+
+
+
 
 
     <div class="container mt-5 pt-5 ">
@@ -165,6 +208,25 @@
 
 
 
+            <section class="tap container-fluid">
+
+                <div class="conatiner tap-container">
+
+                    <h2 style="color: #ffc80b;">The most trusted classroom funding site for teachers</h2>
+
+                    <h5 class="w-75 my-lg-4 my-4" style="color:#ffc80b">
+
+                        As a teacher-founded nonprofit, we're trusted by teachers, donors,
+                        administrators, and partner organizations across thecountry.
+
+                    </h5>
+
+                    <button class="btn border-1 border-light btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
+
+
+                </div>
+            </section>
+
 
 
 
@@ -181,7 +243,7 @@
                             specific parts of the different engagement areas.
                             We look forward to more partners joining this initiative.
                         </p>
-                        <button type="button" class="button-bg btn   btn-lg text-white mt-5 ">More Information</button>
+                        <button type="button" class="button-bg btn   btn-lg text-white mt-5 "><a href="/contact-us" class="text-white" style="text-decoration:none;">More Information</a></button>
                     </div>
 
 
@@ -237,24 +299,21 @@
 
 
     <section class="w-100 my-lg-0 py-lg-1 my-sm-5 ">
-        <div class="about-us row d-flex justify-content-center align-items-center ">
+        <div class="about-us row  justify-content-center align-items-center ">
             <div class="d-flex justify-content-center col-lg-12 col-md-8 col-sm-6 mt-lg-1 pt-lg-1 pb-lg-2 mb-lg-2">
-                <h1 class="col-lg-2  text-warning">about us</h1>
+                <h1 class="pe-lg-1  text-warning">about us</h1>
             </div>
 
             <div class="row justify-content-center ">
                 <p class="col-lg-6 col-sm-12  parag" style="font-size: large;font-weight:600">
 
-                    Founded in 2000 by a high school teacher in the Bronx,
-                    DonorsChoose empowers public school teachers from across the
-                    country to request much-needed materials for their students.
-                    Right now there are thousands of teacher requests that you
-                    can help bring to life with a gift of any amount.</p>
+
+                    The Kwara education transformation agenda intervention by Governor AbdulRahman AbdulRazaq's administration is a public education transformation programme to improve teaching and learning using innovative technology, data-driven platforms, high-quality learning materials, effective training and continuous coaching and support for teachers and school administrators. </p>
             </div>
-            <div class="row d-flex align-items-center align-self-lg-center justify-content-center m-0 my-sm-5 mt-sm-5">
+            <div class=" d-flex align-items-center align-self-lg-center justify-content-center m-0 my-sm-5 mt-sm-5">
                 <div class="col-sm-8 d-flex  justify-content-center mb-lg-1 pb-lg-2 ">
-                    <a href="/aboutus">
-                        <button type="button" href="/aboutus" class="btn btn-light btn-outline-light  mt-lg-2 w-auto text-dark parag w-auto">
+                    <a href="/about-us">
+                        <button type="button" href="/about-us" class="btn btn-light btn-outline-light  mt-lg-2 w-auto text-dark parag w-auto">
                             Find out more
 
                         </button>
@@ -304,67 +363,11 @@
 
 
 
-    <section class="tap">
-
-        <div class="conatiner tap-container">
-
-            <h2 style="color: #ffc80b;">The most trusted classroom funding site for teachers</h2>
-
-            <h5 class="w-75 my-lg-4 my-4" style="color:#ffc80b">
-
-                As a teacher-founded nonprofit, we're trusted by teachers, donors,
-                administrators, and partner organizations across thecountry.
-
-            </h5>
-
-            <button class="btn border-1 border-light btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
-
-
-        </div>
-    </section>
 
 
 
 
 
-    <section>
-        <main class="mt-0">
-            <div class='mt-sm-5'>
-                <div class="row " style="background-color: #bda55d !important">
-
-                    <div class="col-12 col-lg-4 mt-sm-0  ">
-                        <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100%;object-fit:cover;height: 400px;" alt="">
-
-                    </div>
-
-                    <div class="col-12 col-lg-8 " style="background-color: #bda55d !important;color: white;">
-                        <div class="container">
-                            <div class="row">
-                                <h1 class="col-12 col-lg-12 mt-3 pt-5">Support our Children</h1>
-                                <h2 class="col-12 col-lg-12  text-dark">Build a future</h2>
-                            </div>
-                            <div class="row">
-                                <p class="m-0 p-0 pt-lg-4 pt-3 col-12 col-md-8 col-lg-8" style='font-size:1.2rem;line-height:1.4;'>
-                                    Teachers and students need your support more than ever.
-                                    Get crayons, books, cleaning supplies, technology,
-                                    and more to help students get back to learning.
-                                </p>
-                            </div>
-
-                            <div class="row">
-                                <button type="button" name="" id="" class="btn col-6 c col-md-6 btn-dark  mt-5">Donate Now!</button>
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-
-        </main>
-    </section>
 
 
     <section class="pt-5">
