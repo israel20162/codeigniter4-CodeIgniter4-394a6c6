@@ -72,11 +72,9 @@
                             <a class="nav-link a " href="/about-us">ABOUT US</a>
                         </li>
                         <li class="nav-item mx-lg-3">
-                            <a class="nav-link a " href="/get-involved">GET INVOLVED</a>
+                            <a class="nav-link a " href="/contact-us">CONTACT US / DONATE</a>
                         </li>
-                        <li class="nav-item me-lg-5">
-                            <a class="nav-link a " href="#">CONTACT US/DONATE</a>
-                        </li>
+                       
                     </ul>
 
 

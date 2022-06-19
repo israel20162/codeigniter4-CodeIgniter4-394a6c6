@@ -14,8 +14,8 @@
 </head>
 
 <body class="about-us-page">
-    <header style="display:flex;align-items:center;justify-content: center;">
-        <h1>About Us</h1>
+    <header style="display:flex;align-items:center;justify-content: center;margin-top:10px;font-size: 61px !important;color:#bda55d">
+        <span> <strong>About Us</strong> </span>
     </header>
 
     <main>
@@ -25,7 +25,8 @@
                     <h1 style="color: white; font-size:50px;font-family: Arial, Helvetica, sans-serif;
                     letter-spacing: 20px;width: 100%;">KWETA</h1>
                     <p style="font-size: 25px;">(Kwara Education Transformation Agenda)</p>
-                    <button type="button" class="btn btn-outline-warning">Learn more</button>
+                   <a href="/contact-us"><button type="link" href="/contact-us" class="btn btn-outline-warning">Learn more</button></a> 
+                    <!-- <button type=" button" class="btn btn-outline-warning"> <a href="/contact-us"></a> </button> -->
                 </div>
             </div>
 
@@ -40,14 +41,14 @@
 
 
                 <p class="text-dark text-break text-center mt-lg-2 col-12 donation-text" style="width: 45%;font-size: larger;">
-                    We make it easy for anyone to help a teacher in need, moving us closer to a nation where
+                    We make it easy for schools in need to get help , moving us closer to a state where
                     students in every community
                     have the tools and experiences they need for a great education.
                 </p>
 
 
                 <h4 class="text-dark col-lg-3 col-md-6 col-10 mx-lg-auto me-auto ms-5" style="font-weight: 600;font-size: 1.2em; justify-content: center;">But we can't do it alone. Join us!</h4>
-
+<!-- 
 
                 <div class="d-flex gap-lg-4 gap-3 col-lg-8 mt-lg-3 mt-3 col-9  ms-0 me-4">
 
@@ -57,7 +58,7 @@
                     <button type="button" name="" id="" class="btn border-1 border-dark btn-outline-light text-dark col-4">Partner with KWETA</button>
 
 
-                </div>
+                </div> -->
 
             </div>
         </section>
