@@ -597,6 +597,13 @@ color: white;
   
 }
 
+@media screen and (min-width:810px) {
+
+.nav-img{
+  width: 15vw !important;
+}
+  
+}
 
 @media screen and (min-width:800px) and (max-width:1000px) {
 
