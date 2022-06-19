@@ -55,6 +55,14 @@
         }
     },
     "scripts": {
+        
+"post-install-cmd": [
+     "php artisan clear-compiled",
+     "chmod -R 777 public/"
+ ],
+
+
+
         "post-update-cmd": [
             "CodeIgniter\\ComposerScripts::postUpdate",
             "bash -c \"if [ -f admin/setup.sh ]; then bash admin/setup.sh; fi\""
@@ -84,3 +92,4 @@
         "slack": "https://codeigniterchat.slack.com"
     }
 }
+ 
