@@ -70,7 +70,7 @@
 
 
                 <div class="card w-50 text-center" style="opacity: 1;">
-
+                <a href="/contact-us"></a>
                     <h6 class="card-header text-dark">
                         <script>
                             document.write(monthNames[d.getMonth()]);
@@ -78,7 +78,7 @@
                     </h6>
 
                     <img class="card-img-bottom" src="<?php echo base_url('assets/images/book.png') ?>" alt="" srcset="" style="opacity: 1;position: relative;width: 70%;margin: auto;">
-
+                </a>
                 </div>
 
                 <div class="card w-50 text-center" style="opacity: 0.6;transform: scale(.8, .8);">
