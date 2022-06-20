@@ -21,7 +21,7 @@
                 <br><br>
 
                 We aim to connect the Public to Public schools,
-                But we can't do it alone. <a href="/get-involved" class="text-secondary"><strong class=" strong" style="color:#bda55d">Join us!</strong> </a>
+                But we can't do it alone. <a href="/contact-us" class="text-secondary"><strong class=" strong" style="color:#bda55d">Join us!</strong> </a>
 
 
             </p>
