@@ -223,7 +223,7 @@
                     <h5 class="w-75 my-lg-4 my-4" style="color:#ffc80b">
 
                         As a state-founded non-profit, we're trusted by teachers, donors,
-                        administrators, and partner schools across the country.
+                        administrators, and partner schools across the state.
 
                     </h5>
 
