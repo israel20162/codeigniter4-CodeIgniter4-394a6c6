@@ -16,7 +16,7 @@
         <div class="d-grid text-center container ">
 
             <h2 class="text-capitalize"> how it works</h2>
-            
+
 
 
             <p class="col-lg-6" style="justify-self: center;">To ensure integrity, we're there through every step of every project.
@@ -81,9 +81,9 @@
             <div style="display: flex;flex-direction:row;justify-items:center;justify-content:space-between">
 
                 <button class="btn border-1 border-light btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
-                <button class="btn border-1 border-light btn-outline mx-4"><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
-                <button class="btn border-1 border-light btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
-            </div>
+                <!-- <button class="btn border-1 border-light btn-outline mx-4"><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
+                <button class="btn border-1 border-light btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button> -->
+            </div> 
 
 
 
