@@ -14,7 +14,7 @@
 
             <h1 class=" mt-lg-5 mt-3 text-capitalize " style="grid-column:2;grid-row:1;font-size:larger;color:#bda55d" id="head"> <strong>build a future</strong> </h1>
 
-            <p class="w-75 mt-lg-1  mt-5 ms-auto me-auto text-white " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:600; font-size:small" class="text-white ">
+            <p class="col-lg-9  mt-lg-1 col-11 mt-5 ms-auto me-auto text-white  " id="hp" style="grid-column: 6 span;grid-row:2;font-weight:600; font-size:16px;margin-bottom:10px;" class="text-white ">
                 <strong class="strong">The Kwara state education transformation agenda </strong>is an organization
                 whose main goal is to build a future where students in every community have the tools
                 and experiences they need for a great education.
@@ -30,7 +30,7 @@
                 <a class="a" href="/contact-us" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:none" id="rt">
 
 
-                    <button type="button" class="btn btn-lg  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" style="width:max-content;height:fit-content;background-color:#bda55d" id="">
+                    <button type="button" class="btn btn-lg  ms-auto me-auto text-white mt-5  px-lg-5 mt-lg-2  button-bg" style="width:max-content;height:fit-content;background-color:#bda55d" id="">
 
                         Contact us/Donate
                     </button>
