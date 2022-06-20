@@ -664,7 +664,7 @@ color: white;
 
 @media only screen and (max-width:460px){
    .donation-text {
-     width: 80% !important;
+     width: 100% !important;
     
    }
 
