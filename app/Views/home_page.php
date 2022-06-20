@@ -95,7 +95,7 @@
 
             </div>
 
-            <h4 class="text-dark">support a new school every month.</h4>
+            <h4 class="text-dark text-center" style="word-wrap:break;">support a new school every month.</h4>
 
             <p class="text-dark text-break text-center mt-lg-2 donation-text" style="width: 45%;">
                 KWETA is a public education transformation programme that would improve teaching and learning using innovative technology, data-driven platforms, high-quality learning materials, effective training and continuous coaching and support for teachers and school administrators.

@@ -535,10 +535,20 @@ body{
   font-size: large;
 }
 
+@media only screen and (max-width:460px) {
+ .parag{
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  color: #fffaeb;
+}
+  
+}
+
 .parag {
   text-align: center;
   font-weight: 600 !important;
-  font-size: 20px !important;
+  font-size: 20px ;
   color: #fffaeb;
 }
 
