@@ -27,7 +27,7 @@
             </p>
 
             <div style="grid-row:3; grid-column:3 span;color:white;height:fit-content;" class="bg-transparent">
-                <a class="a" href="/" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:none" id="rt">
+                <a class="a" href="/contact-us" style="grid-row:3; grid-column:3 span;width:max-content;height:fit-content;background-color:none" id="rt">
 
 
                     <button type="button" class="btn btn-lg  ms-auto me-auto text-white mt-3 px-lg-5 mt-lg-2 mt-5 button-bg" style="width:max-content;height:fit-content;background-color:#bda55d" id="">
@@ -127,15 +127,17 @@
                                 <h2 class="col-12 col-lg-12  text-dark">Build a future</h2>
                             </div>
                             <div class="row">
-                                <p class="m-0 p-0 pt-lg-4 pt-3 col-12 col-md-8 col-lg-8" style='font-size:1.2rem;line-height:1.4;'>
+                                <p class="m-0 p-0 pt-lg-4 pt-3 col-11 col-md-8 col-lg-8 mx-auto mx-lg-0" style='font-size:1.2rem;line-height:1.4;'>
                                     Teachers and students need your support more than ever.
                                     Get crayons, books, cleaning supplies, technology,
                                     and more to help students get back to learning.
                                 </p>
                             </div>
 
-                            <div class="row">
-                                <button type="button" name="" id="" class="btn col-6 c col-md-6 btn-dark  mt-5"> <a href="/contact-us" class="text-white" style="text-decoration:none;">Donate Now!</a> </button>
+                            <div class="ro">
+                                <a href="/contact-us" class="text-white" style="text-decoration:none;">
+                                    <button type="button" name="" id="" class="btn col-6 c col-md-6 btn-dark  mt-5 mb-3"> Donate Now! </button>
+                                </a>
                             </div>
 
                         </div>
@@ -153,7 +155,7 @@
 
 
 
-    <div class="container mt-5 pt-5 ">
+    <div class="container mt-5 pt-5 mb-3">
         <div class="row">
             <div class="col-md-6">
                 <h3 class="h3 text-success">KWETA</h3>
@@ -172,13 +174,18 @@
                     decline in Kwara State.
                 </p>
                 <div class="container mt-5  w-196 h-48 text-white-50">
-                    <a href="https://web.facebook.com/pg/KwaraEducationFutures/posts/?ref=page_internal" target="_blank" rel="noopener noreferrer"> <button name="More Information" class="button-bg  btn btn-lg text-white mt-5" href="#" role="button">More Information</button></a>
+                    <a href="https://web.facebook.com/pg/KwaraEducationFutures/posts/?ref=page_internal" target="_blank" rel="noopener noreferrer">
+                        <button name="More Information" class="button-bg  btn btn-lg text-white mt-5 mb-5" href="#" role="button">
+                            More Information
+
+                        </button>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-md-offset-3">
 
 
-                <img src="<?php echo base_url('assets/images/Kwara.jpg') ?>" alt="" class="" width="500px">
+                <img src="<?php echo base_url('assets/images/Kwara.jpg') ?>" alt="" class="col-12" width="">
 
                 <div class="row ">
                     <h3 class="h3 col-lg-6 col-6 text-center " id='rt'> <span class="counter-count">3.0 </span> million (2016)</h3>
@@ -208,27 +215,24 @@
 
 
 
-            <section class="tap container-fluid">
+            <section class="tap container-fluid mt-3">
 
                 <div class="conatiner tap-container">
 
-                    <h2 style="color: #ffc80b;">The most trusted classroom funding site for teachers</h2>
+                    <h2 style="color: #ffc80b;text-transform:capitalize">Kwara state Education transformation agenda</h2>
 
                     <h5 class="w-75 my-lg-4 my-4" style="color:#ffc80b">
 
-                        As a teacher-founded nonprofit, we're trusted by teachers, donors,
-                        administrators, and partner organizations across thecountry.
+                        As a state-founded non-profit, we're trusted by teachers, donors,
+                        administrators, and partner schools across the country.
 
                     </h5>
 
-                    <button class="btn border-1 border-light btn-outline "><a href="http://" class="text-light" style="text-decoration:none ;">support teachers monthly</a></button>
+                    <button class="btn border-1 border-light btn-outline "><a href="/about-us" class="text-light" style="text-decoration:none ;">About Us</a></button>
 
 
                 </div>
             </section>
-
-
-
 
             <div class="container mt-5 pt-5">
 
@@ -243,13 +247,13 @@
                             specific parts of the different engagement areas.
                             We look forward to more partners joining this initiative.
                         </p>
-                        <button type="button" class="button-bg btn   btn-lg text-white mt-5 "><a href="/contact-us" class="text-white" style="text-decoration:none;">More Information</a></button>
+                        <a href="/contact-us">
+                            <button type="button" class="button-bg btn   btn-lg text-white mt-5 "><a href="/contact-us" class="text-white" style="text-decoration:none;">More Information</a></button></a>
                     </div>
 
 
-                    <div class="col-6 col-lg-6 mt-5 mt-lg-0 card-body d-flex align-items-center justify-content-center">
-                        <img src="<?php echo base_url('assets/images/kweta-home-teacher.jpg') ?>" alt="" height="350px" style="box-sizing:content-box;margin-right:0px;" class="
-                   w-auto" />
+                    <div class="col-12 col-lg-6 mt-5 mt-lg-0  d-flx align-items-center justify-content-center">
+                        <img src="<?php echo base_url('assets/images/kweta-home-teacher.jpg') ?>" alt="" height="350px" style="box-sizing:content-box;margin-right:0px;" class="col-12 mx-lg-auto" />
 
                     </div>
                 </div>
@@ -308,12 +312,14 @@
                 <p class="col-lg-6 col-sm-12  parag" style="font-size: large;font-weight:600">
 
 
-                    The Kwara education transformation agenda intervention by Governor AbdulRahman AbdulRazaq's administration is a public education transformation programme to improve teaching and learning using innovative technology, data-driven platforms, high-quality learning materials, effective training and continuous coaching and support for teachers and school administrators. </p>
+                    The Kwara education transformation agenda intervention by Governor AbdulRahman AbdulRazaq's administration is a public education
+                    transformation programme to improve teaching and learning using innovative technology, data-driven platforms, high-quality learning
+                    materials, effective training and continuous coaching and support for teachers and school administrators. </p>
             </div>
             <div class=" d-flex align-items-center align-self-lg-center justify-content-center m-0 my-sm-5 mt-sm-5">
                 <div class="col-sm-8 d-flex  justify-content-center mb-lg-1 pb-lg-2 ">
                     <a href="/about-us">
-                        <button type="button" href="/about-us" class="btn btn-light btn-outline-light  mt-lg-2 w-auto text-dark parag w-auto">
+                        <button type="button" href="/about-us" class="btn btn-light btn-outline-light  mt-lg-2 mb-3 w-auto text-dark parag w-auto">
                             Find out more
 
                         </button>
@@ -347,13 +353,15 @@
                 <h1 class="" style="color:#3804c1;text-transform:capitalize;">transparency & efficiency</h1>
                 <br>
 
-                <p class="subheader " style="width: 75%;color:#1b0260 !important;">We know that you care about how
+                <p class="subheader " style="width: 75%;color:#1b0260 !important;">
+                    We know that you care about how
                     effectively your donation is being used.
                     That's why we show you how every Naira was
                     spent, how you made a difference, and how grateful
-                    the students and teachers are!</p>
+                    the students and teachers are!
+                </p>
 
-                <h5 style="color:#1b0260 !important;"> We've received the highest possible ratings from</h5>
+                <h5 style="color:#1b0260 !important;"> We've received the highest possible praise from our schools and organisations alike</h5>
 
             </div>
 
@@ -377,7 +385,9 @@
 
                 <h2>Looking to help out? There are thousands of exciting teacher requests that would benefit from a donation of any size!</h2>
 
-                <button class="btn border-1 border-dark btn-outline-light mx-auto mt-lg-5"><a href="/get-involved" class="text-dark" style="text-decoration:none ;">find a project to support</a></button>
+                <a href="/contact-us" class="text-dark" style="text-decoration:none ;"><button class="btn border-1 border-dark text-dark btn-outline-light mx-auto mt-lg-5">
+                        find a project to support
+                 </button></a>
 
 
             </div>
