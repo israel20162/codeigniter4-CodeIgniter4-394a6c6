@@ -108,15 +108,14 @@
 
 
 
-
     <!-- support our children section -->
-    <section>
-        <main class="mt-0">
-            <div class='mt-sm-5'>
-                <div class="row " style="background-color: #bda55d !important">
+    <section style="margin-left:0px;margin-right:auto ">
+        <main class="mt-0  container-fluid">
+            <div class='-5 ro col-12'>
+                <div class="row  mx-aut col-lg-12" style="background-color: #bda55d !important">
 
-                    <div class="col-12 col-lg-4 mt-sm-0  ">
-                        <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100%;object-fit:cover;height: 400px;" alt="">
+                    <div class="col-12 col-lg-4 mt-0  ">
+                        <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100% !important;object-fit:cover;height: 400px;" alt="" class="w-100">
 
                     </div>
 
@@ -299,17 +298,17 @@
     </div>
 
     <!-- card section div end -->
-    </div>
 
 
-    <section class="w-100 my-lg-0 py-lg-1 my-sm-5 ">
+
+    <section class=" my-lg-0 py-lg-1 my-auto mx-auto " style="width: 95%;">
         <div class="about-us row  justify-content-center align-items-center ">
             <div class="d-flex justify-content-center col-lg-12 col-md-8 col-sm-6 mt-lg-1 pt-lg-1 pb-lg-2 mb-lg-2">
-                <h1 class="pe-lg-1  text-warning">about us</h1>
+                <h1 class="pe-lg-1 mt-3 mb-3 text-warning">about us</h1>
             </div>
 
             <div class="row justify-content-center ">
-                <p class="col-lg-6 col-sm-12  parag" style="font-size: large;font-weight:600">
+                <p class="col-lg-6 col-12  parag" style="font-size: large;font-weight:600">
 
 
                     The Kwara education transformation agenda intervention by Governor AbdulRahman AbdulRazaq's administration is a public education
@@ -387,7 +386,7 @@
 
                 <a href="/contact-us" class="text-dark" style="text-decoration:none ;"><button class="btn border-1 border-dark text-dark btn-outline-light mx-auto mt-lg-5">
                         find a project to support
-                 </button></a>
+                    </button></a>
 
 
             </div>
