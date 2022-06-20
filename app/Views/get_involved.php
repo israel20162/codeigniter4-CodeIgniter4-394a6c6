@@ -16,6 +16,7 @@
         <div class="d-grid text-center container ">
 
             <h2 class="text-capitalize"> how it works</h2>
+            
 
 
             <p class="col-lg-6" style="justify-self: center;">To ensure integrity, we're there through every step of every project.
