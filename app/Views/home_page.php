@@ -114,7 +114,7 @@
             <div class='-5 ro col-12'>
                 <div class="row  mx-aut col-lg-12" style="background-color: #bda55d !important">
 
-                    <div class="col-12 col-lg-4 mt-0  ">
+                    <div class="col-12 col-lg-4 mt-0 px-0 ">
                         <img src="<?php echo base_url('assets/images/annie-spratt-feU8G7E5ODI-unsplash.jpg') ?>" class="" style="width:100% !important;object-fit:cover;height: 400px;" alt="" class="w-100">
 
                     </div>
