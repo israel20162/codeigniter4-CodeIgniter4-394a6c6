@@ -47,7 +47,10 @@
                 </p>
 
 
-                <h4 class="text-dark col-lg-3 col-md-6 col-10 mx-lg-auto me-auto ms-5" style="font-weight: 600;font-size: 1.2em; justify-content: center;">But we can't do it alone. Join us!</h4>
+                <h4 class="text-dark col-lg-3 col-md-6 col-12 mx-lg-auto mx-auto ps- ps-lg-0  ms-5" 
+                style="font-weight: 600;font-size: 1.2em; justify-content: center;white-space:nowrap !important;">
+                But we can't do it alone. Join us!
+            </h4>
 <!-- 
 
                 <div class="d-flex gap-lg-4 gap-3 col-lg-8 mt-lg-3 mt-3 col-9  ms-0 me-4">

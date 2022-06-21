@@ -56,7 +56,7 @@
             <div style="margin: 2em auto;display:flex;justify-content: space-between;flex-direction: row;" class="justify-content-between  donation-card">
 
 
-                <div class="card w-100  text-center" style="opacity: 0.8;transform: scale(.8, .8);">
+                <div class="card w-10  text-center" style="opacity: 0.8;transform: scale(.8, .8);width:150%">
 
                     <h6 class="card-header text-dark">
                         <script>
@@ -69,7 +69,7 @@
                 </div>
 
 
-                <div class="card w-100 text-center" style="opacity: 1;">
+                <div class="card w-10 text-center" style="opacity: 1;width:150%">
                     <a href="/contact-us" class="a">
                         <h6 class="card-header text-dark">
                             <script>
@@ -82,7 +82,7 @@
 
                 </div>
 
-                <div class="card w-100 text-center" style="opacity: 0.6;transform: scale(.8, .8);">
+                <div class="card w-10 text-center" style="opacity: 0.6;transform: scale(.8, .8);width:150%">
 
                     <h6 class="card-header text-dark">
                         <script>

@@ -655,7 +655,7 @@ color: white;
 
  @media  screen and (max-width:460px) {
    .donation-card{
-     width: 70% !important;
+     width: 150% !important;
      margin: 0;
    }
 
