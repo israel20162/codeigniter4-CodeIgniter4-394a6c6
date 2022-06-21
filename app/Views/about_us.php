@@ -195,7 +195,7 @@
 
             <div class="container text-center">
 
-                <div class="row">
+                <div class="row" data-aos="fade-up">
                     <span>Today, teachers at</span>
                     <h2>87% of public schools</h2>
                     <span>in Kwara have benefited on our site.</span>
@@ -204,11 +204,11 @@
 
                 <div class="row  mt-5">
 
-                    <div class="col-6 image-row">
+                    <div class="col-6 image-row" data-aos="fade-right">
                         <img src="<?php echo base_url('assets/images/classroom kids.jpg') ?>" alt="" class="w-100">
                     </div>
 
-                    <div class="col-lg-5 col-12 my-auto text-wrap">
+                    <div class="col-lg-5 col-12 my-auto text-wrap" data-aos="fade-left">
 
                         <span>We've mobilized</span>
                         <h2>5,303,720 citizen donors</h2>
@@ -221,7 +221,7 @@
 
                 <div class="row mt-5">
 
-                    <div class="col-lg-6 col-12 my-auto text-wrap">
+                    <div class="col-lg-6 col-12 my-auto text-wrap" data-aos="fade-right">
 
                         <span>Together, they've given</span>
                         <h2>Together, they've given
@@ -232,7 +232,7 @@
 
 
 
-                    <div class="col-6 image-row">
+                    <div class="col-6 image-row" data-aos="fade-left">
                         <img src="<?php echo base_url('assets/images/governor-kids.jpeg') ?>" alt="" class="w-100">
                     </div>
 
@@ -241,11 +241,11 @@
 
 
                 <div class="row mt-5">
-                    <div class="col-6 image-row">
+                    <div class="col-6 image-row" data-aos="fade-right">
                         <img src="<?php echo base_url('assets/images/uniform-kids.jpg') ?>" alt="" class="w-100 image-row">
                     </div>
 
-                    <div class="col-lg-5 col-12 my-auto text-wrap">
+                    <div class="col-lg-5 col-12 my-auto text-wrap" data-aos="fade-left">
 
                         <span>Helping to make learning more engaging at</span>
                         <h2>86,702 schools</h2>

@@ -191,7 +191,7 @@
 
                 <div class="row " id="counters_1">
                     <h3 class="h3 col-lg-6 col-6 text-center " id='rt'> <span class="counter" data-TargetNum="3" data-Speed="3000">0 </span> million (2016)</h3>
-                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt">&#8358; <span class="counter" data-TargetNum="137.6" data-Speed="10000">0</span> Billion </h3>
+                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt">&#8358; <span class="counter" data-TargetNum="137.6" data-Speed="7000">0</span> Billion </h3>
 
                 </div>
 
