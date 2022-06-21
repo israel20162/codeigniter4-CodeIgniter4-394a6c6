@@ -70,15 +70,15 @@
 
 
                 <div class="card w-50 text-center" style="opacity: 1;">
-                <a href="/contact-us"class="a">
-                    <h6 class="card-header text-dark">
-                        <script>
-                            document.write(monthNames[d.getMonth()]);
-                        </script>
-                    </h6>
+                    <a href="/contact-us" class="a">
+                        <h6 class="card-header text-dark">
+                            <script>
+                                document.write(monthNames[d.getMonth()]);
+                            </script>
+                        </h6>
 
-                    <img class="card-img-bottom" src="<?php echo base_url('assets/images/book.png') ?>" alt="" srcset="" style="opacity: 1;position: relative;width: 70%;margin: auto;">
-                </a>
+                        <img class="card-img-bottom" src="<?php echo base_url('assets/images/book.png') ?>" alt="" srcset="" style="opacity: 1;position: relative;width: 70%;margin: auto;">
+                    </a>
 
                 </div>
 
@@ -100,8 +100,8 @@
 
             <p class="text-dark text-brea text-center mt-lg-2 donation-text" style="width: 45%;text-transform:none">
                 KWETA is a public education transformation programme that would improve teaching and learning using innovative technology,
-                 data-driven platforms, high-quality learning materials, effective training and continuous coaching and support for teachers
-                  and school administrators.
+                data-driven platforms, high-quality learning materials, effective training and continuous coaching and support for teachers
+                and school administrators.
             </p>
 
             <button class="btn border-1 border-dark btn-outline-light"><a href="/contact-us" class="text-dark" style="text-decoration:none ;">Contact Us</a></button>
@@ -189,9 +189,9 @@
 
                 <img src="<?php echo base_url('assets/images/Kwara.jpg') ?>" alt="" class="col-12" width="">
 
-                <div class="row ">
-                    <h3 class="h3 col-lg-6 col-6 text-center " id='rt'> <span class="counter-count">3.0 </span> million (2016)</h3>
-                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt">&#8358; <span class="counter-count">137.6</span> Billion </h3>
+                <div class="row " id="counters_1">
+                    <h3 class="h3 col-lg-6 col-6 text-center " id='rt'> <span class="counter" data-TargetNum="3" data-Speed="3000">0 </span> million (2016)</h3>
+                    <h3 class="h3 col-lg-6 col-6 text-center" id="rt">&#8358; <span class="counter" data-TargetNum="137.6" data-Speed="10000">0</span> Billion </h3>
 
                 </div>
 
@@ -201,9 +201,9 @@
                 </div>
 
 
-                <div class="row mt-5">
-                    <h3 class="h3 col-6 col-lg-6  text-center " id="rt">&#8358;<span class="counter-count">40.2</span> Billion </h3>
-                    <h3 class="h3 col-6 col-lg-6  text-center" id="rt">&#8358; <span class="counter-count">35</span> Billion </h3>
+                <div class="row mt-5" id="counters_2">
+                    <h3 class="h3 col-6 col-lg-6  text-center " id="rt">&#8358;<span class="counter" data-TargetNum="40.2" data-Speed="5000">0</span> Billion </h3>
+                    <h3 class="h3 col-6 col-lg-6  text-center" id="rt">&#8358; <span class="counter" data-TargetNum="35" data-Speed="6000">0</span> Billion </h3>
 
                 </div>
                 <div class="row">

@@ -13,6 +13,11 @@
 
 
     <script type="text/javascript" src="<?php echo base_url('bootstrap/js/bootstrap.js') ?>"></script>
+    <script type="text/javascript" src="<?php echo base_url('assets/javascript/multi-animated-counter.js') ?>"></script>
+    <script>
+        let visibilityIds = ['#counters_1', '#counters_2', '#counters_3'];
+        let counterClass = '.counter';
+    </script>
 </head>
 
 <body>
@@ -56,6 +61,7 @@
             });
         });
     </script>
+
     <div class=" sticky-top bg-white mx-auto   " style="box-shadow: 0px 1px 0px 0px grey">
         <nav class="navbar  navbar-expand-lg w-100  me-auto  mx-auto  bg-white  " style="max-width: 1100px;">
             <div class="container-fluid  " style=" background-color:white; ; padding-top:0px">
@@ -74,7 +80,7 @@
                         <li class="nav-item mx-lg-3">
                             <a class="nav-link a " href="/contact-us">CONTACT US / DONATE</a>
                         </li>
-                       
+
                     </ul>
 
 
