@@ -47,7 +47,7 @@
                 </p>
 
 
-                <h4 class="text-dark col-lg-3 col-md-6 col-12 mx-lg-auto mx-auto ps- ps-lg-0  ms-5" 
+                <h4 class="text-dark col-lg-3 col-md-6 col-12 mx-lg-auto mx-auto ps-0 ps-lg-0  ms-3" 
                 style="font-weight: 600;font-size: 1.2em; justify-content: center;white-space:nowrap !important;">
                 But we can't do it alone. Join us!
             </h4>
@@ -70,7 +70,7 @@
         <section class="container" id='2'>
 
             <div class="row mb-lg-5 mb-4">
-                <div class="col-lg-6  ">
+                <div class="col-lg-6 col-12 ">
                     <h1 class="text-capitalize">about KWETA</h1>
                     <p class="">
                         KWETA (Kwara Education Transformation Agenda) is a programme
@@ -89,8 +89,8 @@
                     </p>
                 </div>
 
-                <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                    <img src="<?php echo base_url('assets/images/b27628ff-governor-abdulrahman-abdulrazaq.webp') ?>" alt="" width="500px" height="350px" srcset="">
+                <div class="col-lg-6 col-12 d-flex justify-content-center align-items-center">
+                    <img src="<?php echo base_url('assets/images/b27628ff-governor-abdulrahman-abdulrazaq.webp') ?>" alt="" height="350px" srcset="" class="w-100">
                 </div>
 
             </div>
@@ -192,7 +192,7 @@
 
 
 
-        <section>
+        <section class="w-100">
 
 
 

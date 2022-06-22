@@ -1,8 +1,9 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 
 <head>
     <title><?= esc($title) ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?php echo base_url('bootstrap/css/bootstrap.css') ?>" type="text/css">
     <link rel="stylesheet" href="<?php echo base_url('assets/css/index.css') ?>" type="text/css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">

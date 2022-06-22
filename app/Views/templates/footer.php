@@ -17,6 +17,7 @@
         once: true,
         duration: 2000,
         easing: 'ease-in-out',
+        disable:'mobile'
     });
 </script>
 </body>
