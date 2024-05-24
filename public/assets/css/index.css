@@ -453,7 +453,7 @@ body {
   text-align: center;
 }
 
-@media screen and (max-width: 439px) {
+@media screen and (max-width: 499px) {
   .grid {
     display: grid;
     position: relative;
@@ -646,6 +646,7 @@ color: white;
   text-transform: capitalize;
   color: #3804c1;
   height: auto;
+  
  }
 
  .donation-card{
